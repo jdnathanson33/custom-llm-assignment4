@@ -1,0 +1,20 @@
+{
+  "0.3": [
+    "the local website was mentioned in the security report yesterday .",
+    "the report about the item explains the price in detail .",
+    "the team discussed the bicycle and the route at the station .",
+    "the new product was mentioned in the delivery report yesterday ."
+  ],
+  "0.8": [
+    "the local website was mentioned in the security report yesterday .",
+    "the report about the car explains the journey in detail .",
+    "in the morning the jar was full , and at night it was empty .",
+    "the trip was long , but the other trip was short ."
+  ],
+  "1.2": [
+    "the local website was mentioned in the security report yesterday .",
+    "ivy learned that the opposite of slow is fast .",
+    "priya said the cheese felt soft , and zoe said it felt hard .",
+    "they compared the important shopper with another shopper at the store ."
+  ]
+}

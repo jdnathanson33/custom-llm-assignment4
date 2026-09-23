@@ -1,0 +1,2999 @@
+a bag that is not heavy is light , because light is the opposite of heavy .
+a bag that is not light is heavy , because heavy is the opposite of light .
+a bed that is not soft is hard , because hard is the opposite of soft .
+a blade that is not sharp is dull , because dull is the opposite of sharp .
+a blanket that is not cool is warm , because warm is the opposite of cool .
+a blanket that is not warm is cool , because cool is the opposite of warm .
+a book that is not thick is thin , because thin is the opposite of thick .
+a box that is not big is small , because small is the opposite of big .
+a box that is not light is heavy , because heavy is the opposite of light .
+a bread that is not hard is soft , because soft is the opposite of hard .
+a breeze that is not cool is warm , because warm is the opposite of cool .
+a bus that is not early is late , because late is the opposite of early .
+a car that is not fast is slow , because slow is the opposite of fast .
+a car that is not slow is fast , because fast is the opposite of slow .
+a chair that is not hard is soft , because soft is the opposite of hard .
+a chair that is not soft is hard , because hard is the opposite of soft .
+a child that is not happy is sad , because sad is the opposite of happy .
+a child that is not sad is happy , because happy is the opposite of sad .
+a city that is not big is small , because small is the opposite of big .
+a class that is not late is early , because early is the opposite of late .
+a dog that is not small is big , because big is the opposite of small .
+a door that is not open is closed , because closed is the opposite of open .
+a drink that is not warm is cool , because cool is the opposite of warm .
+a flight that is not early is late , because late is the opposite of early .
+a flight that is not late is early , because early is the opposite of late .
+a floor that is not clean is dirty , because dirty is the opposite of clean .
+a friend that is not happy is sad , because sad is the opposite of happy .
+a friend that is not sad is happy , because happy is the opposite of sad .
+a garden that is not small is big , because big is the opposite of small .
+a gate that is not closed is open , because open is the opposite of closed .
+a grass that is not dry is wet , because wet is the opposite of dry .
+a grass that is not wet is dry , because dry is the opposite of wet .
+a hallway that is not dark is bright , because bright is the opposite of dark .
+a horse that is not slow is fast , because fast is the opposite of slow .
+a house that is not big is small , because small is the opposite of big .
+a lesson that is not easy is difficult , because difficult is the opposite of easy .
+a line that is not long is short , because short is the opposite of long .
+a line that is not short is long , because long is the opposite of short .
+a music that is not loud is soft , because soft is the opposite of loud .
+a music that is not soft is loud , because loud is the opposite of soft .
+a needle that is not dull is sharp , because sharp is the opposite of dull .
+a pencil that is not dull is sharp , because sharp is the opposite of dull .
+a pillow that is not soft is hard , because hard is the opposite of soft .
+a plate that is not clean is dirty , because dirty is the opposite of clean .
+a plate that is not dirty is clean , because clean is the opposite of dirty .
+a price that is not high is low , because low is the opposite of high .
+a price that is not low is high , because high is the opposite of low .
+a puzzle that is not difficult is easy , because easy is the opposite of difficult .
+a puzzle that is not easy is difficult , because difficult is the opposite of easy .
+a river that is not fast is slow , because slow is the opposite of fast .
+a road that is not long is short , because short is the opposite of long .
+a road that is not short is long , because long is the opposite of short .
+a room that is not bright is dark , because dark is the opposite of bright .
+a room that is not dark is bright , because bright is the opposite of dark .
+a rope that is not thick is thin , because thin is the opposite of thick .
+a rope that is not thin is thick , because thick is the opposite of thin .
+a runner that is not fast is slow , because slow is the opposite of fast .
+a shirt that is not dirty is clean , because clean is the opposite of dirty .
+a shirt that is not wet is dry , because dry is the opposite of wet .
+a shop that is not closed is open , because open is the opposite of closed .
+a signal that is not strong is weak , because weak is the opposite of strong .
+a signal that is not weak is strong , because strong is the opposite of weak .
+a sky that is not dark is bright , because bright is the opposite of dark .
+a song that is not short is long , because long is the opposite of short .
+a stone that is not heavy is light , because light is the opposite of heavy .
+a story that is not happy is sad , because sad is the opposite of happy .
+a story that is not sad is happy , because happy is the opposite of sad .
+a street that is not bright is dark , because dark is the opposite of bright .
+a suitcase that is not heavy is light , because light is the opposite of heavy .
+a suitcase that is not light is heavy , because heavy is the opposite of light .
+a team that is not strong is weak , because weak is the opposite of strong .
+a team that is not weak is strong , because strong is the opposite of weak .
+a test that is not difficult is easy , because easy is the opposite of difficult .
+a test that is not easy is difficult , because difficult is the opposite of easy .
+a towel that is not dry is wet , because wet is the opposite of dry .
+a train that is not late is early , because early is the opposite of late .
+a train that is not slow is fast , because fast is the opposite of slow .
+a trip that is not long is short , because short is the opposite of long .
+a voice that is not soft is loud , because loud is the opposite of soft .
+a wall that is not high is low , because low is the opposite of high .
+a wall that is not low is high , because high is the opposite of low .
+a wall that is not thick is thin , because thin is the opposite of thick .
+a wall that is not thin is thick , because thick is the opposite of thin .
+a wind that is not strong is weak , because weak is the opposite of strong .
+a window that is not closed is open , because open is the opposite of closed .
+a window that is not open is closed , because closed is the opposite of open .
+an alarm that is not loud is soft , because soft is the opposite of loud .
+an edge that is not dull is sharp , because sharp is the opposite of dull .
+an edge that is not sharp is dull , because dull is the opposite of sharp .
+an evening that is not cool is warm , because warm is the opposite of cool .
+an evening that is not warm is cool , because cool is the opposite of warm .
+big and small are opposites .
+big is the opposite of small .
+bright and dark are opposites .
+bright is the opposite of dark .
+clean and dirty are opposites .
+clean is the opposite of dirty .
+closed and open are opposites .
+closed is the opposite of open .
+cool and warm are opposites .
+cool is the opposite of warm .
+dark and bright are opposites .
+dark is the opposite of bright .
+difficult and easy are opposites .
+difficult is the opposite of easy .
+dirty and clean are opposites .
+dirty is the opposite of clean .
+dry and wet are opposites .
+dry is the opposite of wet .
+dull and sharp are opposites .
+dull is the opposite of sharp .
+early and late are opposites .
+early is the opposite of late .
+easy and difficult are opposites .
+easy is the opposite of difficult .
+fast and slow are opposites .
+fast is the opposite of slow .
+felix asked for the opposite of big , and nora said small .
+felix asked for the opposite of dark , and jonah said bright .
+felix asked for the opposite of early , and sam said late .
+felix asked for the opposite of easy , and lena said difficult .
+felix asked for the opposite of hard , and kai said soft .
+felix asked for the opposite of thin , and sam said thick .
+felix asked for the opposite of wet , and kai said dry .
+felix checked the bell.it was loud .
+felix checked the blanket.it was warm .
+felix checked the bottle.it was empty .
+felix checked the knife.it was sharp .
+felix checked the road.it was wet .
+felix checked the room.it was empty .
+felix checked the shelf.it was high .
+felix checked the shirt.it was wet .
+felix learned that the opposite of dark is bright .
+felix learned that the opposite of loud is soft .
+felix learned that the opposite of sharp is dull .
+felix learned that the opposite of thin is thick .
+felix learned that the opposite of warm is cool .
+felix learned that the opposite of wet is dry .
+felix likes a big box , but marco likes a small box .
+felix likes a difficult test , but sam likes an easy test .
+felix likes a dry towel , but theo likes a wet towel .
+felix likes a full basket , but zoe likes an empty basket .
+felix likes a high wall , but ivy likes a low wall .
+felix likes a hot wind , but zoe likes a cold wind .
+felix likes a late bus , but lena likes an early bus .
+felix likes a quiet train , but zoe likes a noisy train .
+felix likes a sad friend , but maya likes a happy friend .
+felix likes a thin blanket , but priya likes a thick blanket .
+felix likes a thin rope , but ivy likes a thick rope .
+felix likes an early train , but theo likes a late train .
+felix said the alarm felt loud , and theo said it felt soft .
+felix said the city felt small , and hana said it felt big .
+felix said the door felt closed , and zoe said it felt open .
+felix said the knife felt sharp , and jonah said it felt dull .
+felix said the park felt noisy , and nora said it felt quiet .
+felix said the price felt high , and sam said it felt low .
+felix said the river felt fast , and priya said it felt slow .
+felix said the room felt noisy , and jonah said it felt quiet .
+felix said the soup felt hot , and nora said it felt cold .
+felix said the story felt long , and jonah said it felt short .
+felix said the team felt strong , and lena said it felt weak .
+felix wanted a difficult question , not an easy question .
+felix wanted a dirty car , not a clean car .
+felix wanted a hard cheese , not a soft cheese .
+felix wanted a late meeting , not an early meeting .
+felix wanted a sharp edge , not a dull edge .
+felix wanted a short road , not a long road .
+felix wanted a small house , not a big house .
+felix wanted a soft cheese , not a hard cheese .
+felix wanted an early meeting , not a late meeting .
+first the alarm was loud , then it became soft .
+first the alarm was soft , then it became loud .
+first the bag was heavy , then it became light .
+first the bag was light , then it became heavy .
+first the basket was empty , then it became full .
+first the basket was full , then it became empty .
+first the bath was cold , then it became hot .
+first the bath was hot , then it became cold .
+first the bed was hard , then it became soft .
+first the bed was soft , then it became hard .
+first the bell was loud , then it became soft .
+first the bell was soft , then it became loud .
+first the blade was dull , then it became sharp .
+first the blade was sharp , then it became dull .
+first the blanket was cool , then it became warm .
+first the blanket was thick , then it became thin .
+first the blanket was thin , then it became thick .
+first the blanket was warm , then it became cool .
+first the book was thick , then it became thin .
+first the book was thin , then it became thick .
+first the bottle was empty , then it became full .
+first the bottle was full , then it became empty .
+first the box was big , then it became small .
+first the box was heavy , then it became light .
+first the box was light , then it became heavy .
+first the box was small , then it became big .
+first the bread was hard , then it became soft .
+first the bread was soft , then it became hard .
+first the breeze was cool , then it became warm .
+first the breeze was warm , then it became cool .
+first the bus was early , then it became late .
+first the bus was empty , then it became full .
+first the bus was full , then it became empty .
+first the bus was late , then it became early .
+first the car was clean , then it became dirty .
+first the car was dirty , then it became clean .
+first the car was fast , then it became slow .
+first the car was slow , then it became fast .
+first the chair was hard , then it became soft .
+first the chair was soft , then it became hard .
+first the cheese was hard , then it became soft .
+first the cheese was soft , then it became hard .
+first the child was happy , then it became sad .
+first the child was sad , then it became happy .
+first the city was big , then it became small .
+first the city was small , then it became big .
+first the class was early , then it became late .
+first the class was late , then it became early .
+first the classroom was noisy , then it became quiet .
+first the classroom was quiet , then it became noisy .
+first the coat was heavy , then it became light .
+first the coat was light , then it became heavy .
+first the coffee was strong , then it became weak .
+first the coffee was weak , then it became strong .
+first the crowd was noisy , then it became quiet .
+first the crowd was quiet , then it became noisy .
+first the cup was empty , then it became full .
+first the cup was full , then it became empty .
+first the dog was big , then it became small .
+first the dog was small , then it became big .
+first the door was closed , then it became open .
+first the door was open , then it became closed .
+first the drink was cool , then it became warm .
+first the drink was warm , then it became cool .
+first the edge was dull , then it became sharp .
+first the edge was sharp , then it became dull .
+first the evening was cool , then it became warm .
+first the evening was warm , then it became cool .
+first the fence was high , then it became low .
+first the fence was low , then it became high .
+first the flight was early , then it became late .
+first the flight was late , then it became early .
+first the floor was clean , then it became dirty .
+first the floor was dirty , then it became clean .
+first the floor was dry , then it became wet .
+first the floor was wet , then it became dry .
+first the friend was happy , then it became sad .
+first the friend was sad , then it became happy .
+first the garden was big , then it became small .
+first the garden was small , then it became big .
+first the gate was closed , then it became open .
+first the gate was open , then it became closed .
+first the glass was empty , then it became full .
+first the glass was full , then it became empty .
+first the grass was dry , then it became wet .
+first the grass was wet , then it became dry .
+first the hallway was bright , then it became dark .
+first the hallway was dark , then it became bright .
+first the horse was fast , then it became slow .
+first the horse was slow , then it became fast .
+first the house was big , then it became small .
+first the house was small , then it became big .
+first the jacket was cool , then it became warm .
+first the jacket was warm , then it became cool .
+first the jar was empty , then it became full .
+first the jar was full , then it became empty .
+first the job was difficult , then it became easy .
+first the job was easy , then it became difficult .
+first the kitchen was clean , then it became dirty .
+first the kitchen was dirty , then it became clean .
+first the knife was dull , then it became sharp .
+first the knife was sharp , then it became dull .
+first the lesson was difficult , then it became easy .
+first the lesson was easy , then it became difficult .
+first the library was noisy , then it became quiet .
+first the library was quiet , then it became noisy .
+first the line was long , then it became short .
+first the line was short , then it became long .
+first the meeting was early , then it became late .
+first the meeting was late , then it became early .
+first the morning was bright , then it became dark .
+first the morning was dark , then it became bright .
+first the movie was happy , then it became sad .
+first the movie was sad , then it became happy .
+first the music was loud , then it became soft .
+first the music was soft , then it became loud .
+first the needle was dull , then it became sharp .
+first the needle was sharp , then it became dull .
+first the oven was cold , then it became hot .
+first the oven was hot , then it became cold .
+first the park was noisy , then it became quiet .
+first the park was quiet , then it became noisy .
+first the pencil was dull , then it became sharp .
+first the pencil was sharp , then it became dull .
+first the pillow was hard , then it became soft .
+first the pillow was soft , then it became hard .
+first the plate was clean , then it became dirty .
+first the plate was dirty , then it became clean .
+first the price was high , then it became low .
+first the price was low , then it became high .
+first the puzzle was difficult , then it became easy .
+first the puzzle was easy , then it became difficult .
+first the question was difficult , then it became easy .
+first the question was easy , then it became difficult .
+first the river was fast , then it became slow .
+first the river was slow , then it became fast .
+first the road was dry , then it became wet .
+first the road was long , then it became short .
+first the road was short , then it became long .
+first the road was wet , then it became dry .
+first the room was bright , then it became dark .
+first the room was cold , then it became hot .
+first the room was dark , then it became bright .
+first the room was empty , then it became full .
+first the room was full , then it became empty .
+first the room was hot , then it became cold .
+first the room was noisy , then it became quiet .
+first the room was quiet , then it became noisy .
+first the rope was strong , then it became weak .
+first the rope was thick , then it became thin .
+first the rope was thin , then it became thick .
+first the rope was weak , then it became strong .
+first the runner was fast , then it became slow .
+first the runner was slow , then it became fast .
+first the score was high , then it became low .
+first the score was low , then it became high .
+first the shelf was high , then it became low .
+first the shelf was low , then it became high .
+first the shirt was clean , then it became dirty .
+first the shirt was dirty , then it became clean .
+first the shirt was dry , then it became wet .
+first the shirt was wet , then it became dry .
+first the shop was closed , then it became open .
+first the shop was open , then it became closed .
+first the signal was strong , then it became weak .
+first the signal was weak , then it became strong .
+first the sky was bright , then it became dark .
+first the sky was dark , then it became bright .
+first the slice was thick , then it became thin .
+first the slice was thin , then it became thick .
+first the song was happy , then it became sad .
+first the song was long , then it became short .
+first the song was loud , then it became soft .
+first the song was sad , then it became happy .
+first the song was short , then it became long .
+first the song was soft , then it became loud .
+first the soup was cold , then it became hot .
+first the soup was hot , then it became cold .
+first the stone was heavy , then it became light .
+first the stone was light , then it became heavy .
+first the store was closed , then it became open .
+first the store was open , then it became closed .
+first the story was happy , then it became sad .
+first the story was long , then it became short .
+first the story was sad , then it became happy .
+first the story was short , then it became long .
+first the street was bright , then it became dark .
+first the street was dark , then it became bright .
+first the street was noisy , then it became quiet .
+first the street was quiet , then it became noisy .
+first the suitcase was heavy , then it became light .
+first the suitcase was light , then it became heavy .
+first the tea was cold , then it became hot .
+first the tea was hot , then it became cold .
+first the team was strong , then it became weak .
+first the team was weak , then it became strong .
+first the test was difficult , then it became easy .
+first the test was easy , then it became difficult .
+first the towel was dry , then it became wet .
+first the towel was wet , then it became dry .
+first the train was early , then it became late .
+first the train was fast , then it became slow .
+first the train was late , then it became early .
+first the train was noisy , then it became quiet .
+first the train was quiet , then it became noisy .
+first the train was slow , then it became fast .
+first the trip was long , then it became short .
+first the trip was short , then it became long .
+first the voice was loud , then it became soft .
+first the voice was soft , then it became loud .
+first the wall was high , then it became low .
+first the wall was low , then it became high .
+first the wall was thick , then it became thin .
+first the wall was thin , then it became thick .
+first the water was cold , then it became hot .
+first the water was hot , then it became cold .
+first the wind was cold , then it became hot .
+first the wind was hot , then it became cold .
+first the wind was strong , then it became weak .
+first the wind was weak , then it became strong .
+first the window was closed , then it became open .
+first the window was open , then it became closed .
+hana asked for the opposite of closed , and rosa said open .
+hana asked for the opposite of cool , and sam said warm .
+hana asked for the opposite of difficult , and ivy said easy .
+hana asked for the opposite of dry , and ivy said wet .
+hana asked for the opposite of heavy , and nora said light .
+hana asked for the opposite of heavy , and priya said light .
+hana asked for the opposite of open , and kai said closed .
+hana asked for the opposite of strong , and zoe said weak .
+hana asked for the opposite of weak , and lena said strong .
+hana asked for the opposite of wet , and priya said dry .
+hana checked the box.it was big .
+hana checked the cheese.it was soft .
+hana checked the line.it was long .
+hana checked the rope.it was thick .
+hana checked the train.it was fast .
+hana checked the wind.it was hot .
+hana learned that the opposite of clean is dirty .
+hana learned that the opposite of cool is warm .
+hana learned that the opposite of difficult is easy .
+hana learned that the opposite of happy is sad .
+hana learned that the opposite of short is long .
+hana learned that the opposite of weak is strong .
+hana likes a closed shop , but sam likes an open shop .
+hana likes a full cup , but sam likes an empty cup .
+hana likes a hard bread , but priya likes a soft bread .
+hana likes a soft bread , but rosa likes a hard bread .
+hana likes a strong team , but theo likes a weak team .
+hana likes a thick slice , but leo likes a thin slice .
+hana likes a warm evening , but sam likes a cool evening .
+hana likes a weak rope , but maya likes a strong rope .
+hana likes an early class , but zoe likes a late class .
+hana said the alarm felt soft , and kai said it felt loud .
+hana said the bag felt heavy , and zoe said it felt light .
+hana said the bed felt hard , and rosa said it felt soft .
+hana said the box felt light , and jonah said it felt heavy .
+hana said the flight felt early , and priya said it felt late .
+hana said the hallway felt dark , and rosa said it felt bright .
+hana said the meeting felt early , and jonah said it felt late .
+hana said the park felt quiet , and nora said it felt noisy .
+hana said the question felt difficult , and zoe said it felt easy .
+hana said the road felt wet , and theo said it felt dry .
+hana said the room felt cold , and zoe said it felt hot .
+hana said the room felt empty , and theo said it felt full .
+hana said the signal felt strong , and ivy said it felt weak .
+hana said the sky felt bright , and priya said it felt dark .
+hana said the towel felt wet , and leo said it felt dry .
+hana said the train felt early , and marco said it felt late .
+hana said the train felt quiet , and rosa said it felt noisy .
+hana said the wind felt hot , and kai said it felt cold .
+hana wanted a cool breeze , not a warm breeze .
+hana wanted a difficult test , not an easy test .
+hana wanted a dull edge , not a sharp edge .
+hana wanted a hard pillow , not a soft pillow .
+hana wanted a heavy bag , not a light bag .
+hana wanted a heavy suitcase , not a light suitcase .
+hana wanted a hot wind , not a cold wind .
+hana wanted a late flight , not an early flight .
+hana wanted a loud bell , not a soft bell .
+hana wanted a sad song , not a happy song .
+hana wanted a soft bell , not a loud bell .
+hana wanted a strong signal , not a weak signal .
+hana wanted a thin book , not a thick book .
+hana wanted a wet floor , not a dry floor .
+hana wanted an early train , not a late train .
+hana wanted an easy job , not a difficult job .
+hana wanted an empty bottle , not a full bottle .
+happy and sad are opposites .
+happy is the opposite of sad .
+hard and soft are opposites .
+hard is the opposite of soft .
+heavy and light are opposites .
+heavy is the opposite of light .
+high and low are opposites .
+high is the opposite of low .
+if a bag is not heavy , it may be light .
+if a bag is not light , it may be heavy .
+if a basket is not empty , it may be full .
+if a basket is not full , it may be empty .
+if a bath is not cold , it may be hot .
+if a bath is not hot , it may be cold .
+if a bed is not hard , it may be soft .
+if a bed is not soft , it may be hard .
+if a bell is not loud , it may be soft .
+if a bell is not soft , it may be loud .
+if a blade is not dull , it may be sharp .
+if a blade is not sharp , it may be dull .
+if a blanket is not cool , it may be warm .
+if a blanket is not thick , it may be thin .
+if a blanket is not thin , it may be thick .
+if a blanket is not warm , it may be cool .
+if a book is not thick , it may be thin .
+if a book is not thin , it may be thick .
+if a bottle is not empty , it may be full .
+if a bottle is not full , it may be empty .
+if a box is not big , it may be small .
+if a box is not heavy , it may be light .
+if a box is not light , it may be heavy .
+if a box is not small , it may be big .
+if a bread is not hard , it may be soft .
+if a bread is not soft , it may be hard .
+if a breeze is not cool , it may be warm .
+if a breeze is not warm , it may be cool .
+if a bus is not early , it may be late .
+if a bus is not empty , it may be full .
+if a bus is not full , it may be empty .
+if a bus is not late , it may be early .
+if a car is not clean , it may be dirty .
+if a car is not dirty , it may be clean .
+if a car is not fast , it may be slow .
+if a car is not slow , it may be fast .
+if a chair is not hard , it may be soft .
+if a chair is not soft , it may be hard .
+if a cheese is not hard , it may be soft .
+if a cheese is not soft , it may be hard .
+if a child is not happy , it may be sad .
+if a child is not sad , it may be happy .
+if a city is not big , it may be small .
+if a city is not small , it may be big .
+if a class is not early , it may be late .
+if a class is not late , it may be early .
+if a classroom is not noisy , it may be quiet .
+if a classroom is not quiet , it may be noisy .
+if a coat is not heavy , it may be light .
+if a coat is not light , it may be heavy .
+if a coffee is not strong , it may be weak .
+if a coffee is not weak , it may be strong .
+if a crowd is not noisy , it may be quiet .
+if a crowd is not quiet , it may be noisy .
+if a cup is not empty , it may be full .
+if a cup is not full , it may be empty .
+if a dog is not big , it may be small .
+if a dog is not small , it may be big .
+if a door is not closed , it may be open .
+if a door is not open , it may be closed .
+if a drink is not cool , it may be warm .
+if a drink is not warm , it may be cool .
+if a fence is not high , it may be low .
+if a fence is not low , it may be high .
+if a flight is not early , it may be late .
+if a flight is not late , it may be early .
+if a floor is not clean , it may be dirty .
+if a floor is not dirty , it may be clean .
+if a floor is not dry , it may be wet .
+if a floor is not wet , it may be dry .
+if a friend is not happy , it may be sad .
+if a friend is not sad , it may be happy .
+if a garden is not big , it may be small .
+if a garden is not small , it may be big .
+if a gate is not closed , it may be open .
+if a gate is not open , it may be closed .
+if a glass is not empty , it may be full .
+if a glass is not full , it may be empty .
+if a grass is not dry , it may be wet .
+if a grass is not wet , it may be dry .
+if a hallway is not bright , it may be dark .
+if a hallway is not dark , it may be bright .
+if a horse is not fast , it may be slow .
+if a horse is not slow , it may be fast .
+if a house is not big , it may be small .
+if a house is not small , it may be big .
+if a jacket is not cool , it may be warm .
+if a jacket is not warm , it may be cool .
+if a jar is not empty , it may be full .
+if a jar is not full , it may be empty .
+if a job is not difficult , it may be easy .
+if a job is not easy , it may be difficult .
+if a kitchen is not clean , it may be dirty .
+if a kitchen is not dirty , it may be clean .
+if a knife is not dull , it may be sharp .
+if a knife is not sharp , it may be dull .
+if a lesson is not difficult , it may be easy .
+if a lesson is not easy , it may be difficult .
+if a library is not noisy , it may be quiet .
+if a library is not quiet , it may be noisy .
+if a line is not long , it may be short .
+if a line is not short , it may be long .
+if a meeting is not early , it may be late .
+if a meeting is not late , it may be early .
+if a morning is not bright , it may be dark .
+if a morning is not dark , it may be bright .
+if a movie is not happy , it may be sad .
+if a movie is not sad , it may be happy .
+if a music is not loud , it may be soft .
+if a music is not soft , it may be loud .
+if a needle is not dull , it may be sharp .
+if a needle is not sharp , it may be dull .
+if a park is not noisy , it may be quiet .
+if a park is not quiet , it may be noisy .
+if a pencil is not dull , it may be sharp .
+if a pencil is not sharp , it may be dull .
+if a pillow is not hard , it may be soft .
+if a pillow is not soft , it may be hard .
+if a plate is not clean , it may be dirty .
+if a plate is not dirty , it may be clean .
+if a price is not high , it may be low .
+if a price is not low , it may be high .
+if a puzzle is not difficult , it may be easy .
+if a puzzle is not easy , it may be difficult .
+if a question is not difficult , it may be easy .
+if a question is not easy , it may be difficult .
+if a river is not fast , it may be slow .
+if a river is not slow , it may be fast .
+if a road is not dry , it may be wet .
+if a road is not long , it may be short .
+if a road is not short , it may be long .
+if a road is not wet , it may be dry .
+if a room is not bright , it may be dark .
+if a room is not cold , it may be hot .
+if a room is not dark , it may be bright .
+if a room is not empty , it may be full .
+if a room is not full , it may be empty .
+if a room is not hot , it may be cold .
+if a room is not noisy , it may be quiet .
+if a room is not quiet , it may be noisy .
+if a rope is not strong , it may be weak .
+if a rope is not thick , it may be thin .
+if a rope is not thin , it may be thick .
+if a rope is not weak , it may be strong .
+if a runner is not fast , it may be slow .
+if a runner is not slow , it may be fast .
+if a score is not high , it may be low .
+if a score is not low , it may be high .
+if a shelf is not high , it may be low .
+if a shelf is not low , it may be high .
+if a shirt is not clean , it may be dirty .
+if a shirt is not dirty , it may be clean .
+if a shirt is not dry , it may be wet .
+if a shirt is not wet , it may be dry .
+if a shop is not closed , it may be open .
+if a shop is not open , it may be closed .
+if a signal is not strong , it may be weak .
+if a signal is not weak , it may be strong .
+if a sky is not bright , it may be dark .
+if a sky is not dark , it may be bright .
+if a slice is not thick , it may be thin .
+if a slice is not thin , it may be thick .
+if a song is not happy , it may be sad .
+if a song is not long , it may be short .
+if a song is not loud , it may be soft .
+if a song is not sad , it may be happy .
+if a song is not short , it may be long .
+if a song is not soft , it may be loud .
+if a soup is not cold , it may be hot .
+if a soup is not hot , it may be cold .
+if a stone is not heavy , it may be light .
+if a stone is not light , it may be heavy .
+if a store is not closed , it may be open .
+if a store is not open , it may be closed .
+if a story is not happy , it may be sad .
+if a story is not long , it may be short .
+if a story is not sad , it may be happy .
+if a story is not short , it may be long .
+if a street is not bright , it may be dark .
+if a street is not dark , it may be bright .
+if a street is not noisy , it may be quiet .
+if a street is not quiet , it may be noisy .
+if a suitcase is not heavy , it may be light .
+if a suitcase is not light , it may be heavy .
+if a tea is not cold , it may be hot .
+if a tea is not hot , it may be cold .
+if a team is not strong , it may be weak .
+if a team is not weak , it may be strong .
+if a test is not difficult , it may be easy .
+if a test is not easy , it may be difficult .
+if a towel is not dry , it may be wet .
+if a towel is not wet , it may be dry .
+if a train is not early , it may be late .
+if a train is not fast , it may be slow .
+if a train is not late , it may be early .
+if a train is not noisy , it may be quiet .
+if a train is not quiet , it may be noisy .
+if a train is not slow , it may be fast .
+if a trip is not long , it may be short .
+if a trip is not short , it may be long .
+if a voice is not loud , it may be soft .
+if a voice is not soft , it may be loud .
+if a wall is not high , it may be low .
+if a wall is not low , it may be high .
+if a wall is not thick , it may be thin .
+if a wall is not thin , it may be thick .
+if a water is not cold , it may be hot .
+if a water is not hot , it may be cold .
+if a wind is not cold , it may be hot .
+if a wind is not hot , it may be cold .
+if a wind is not strong , it may be weak .
+if a wind is not weak , it may be strong .
+if a window is not closed , it may be open .
+if a window is not open , it may be closed .
+if an alarm is not loud , it may be soft .
+if an alarm is not soft , it may be loud .
+if an edge is not dull , it may be sharp .
+if an edge is not sharp , it may be dull .
+if an evening is not cool , it may be warm .
+if an evening is not warm , it may be cool .
+if an oven is not cold , it may be hot .
+if an oven is not hot , it may be cold .
+in the morning the alarm was loud , and at night it was soft .
+in the morning the alarm was soft , and at night it was loud .
+in the morning the bag was heavy , and at night it was light .
+in the morning the bag was light , and at night it was heavy .
+in the morning the basket was empty , and at night it was full .
+in the morning the basket was full , and at night it was empty .
+in the morning the bath was cold , and at night it was hot .
+in the morning the bath was hot , and at night it was cold .
+in the morning the bed was hard , and at night it was soft .
+in the morning the bed was soft , and at night it was hard .
+in the morning the bell was loud , and at night it was soft .
+in the morning the bell was soft , and at night it was loud .
+in the morning the blade was dull , and at night it was sharp .
+in the morning the blade was sharp , and at night it was dull .
+in the morning the blanket was cool , and at night it was warm .
+in the morning the blanket was thick , and at night it was thin .
+in the morning the blanket was thin , and at night it was thick .
+in the morning the blanket was warm , and at night it was cool .
+in the morning the book was thick , and at night it was thin .
+in the morning the book was thin , and at night it was thick .
+in the morning the bottle was empty , and at night it was full .
+in the morning the bottle was full , and at night it was empty .
+in the morning the box was big , and at night it was small .
+in the morning the box was heavy , and at night it was light .
+in the morning the box was light , and at night it was heavy .
+in the morning the box was small , and at night it was big .
+in the morning the bread was hard , and at night it was soft .
+in the morning the bread was soft , and at night it was hard .
+in the morning the breeze was cool , and at night it was warm .
+in the morning the breeze was warm , and at night it was cool .
+in the morning the bus was early , and at night it was late .
+in the morning the bus was empty , and at night it was full .
+in the morning the bus was full , and at night it was empty .
+in the morning the bus was late , and at night it was early .
+in the morning the car was clean , and at night it was dirty .
+in the morning the car was dirty , and at night it was clean .
+in the morning the car was fast , and at night it was slow .
+in the morning the car was slow , and at night it was fast .
+in the morning the chair was hard , and at night it was soft .
+in the morning the chair was soft , and at night it was hard .
+in the morning the cheese was hard , and at night it was soft .
+in the morning the cheese was soft , and at night it was hard .
+in the morning the child was happy , and at night it was sad .
+in the morning the child was sad , and at night it was happy .
+in the morning the city was big , and at night it was small .
+in the morning the city was small , and at night it was big .
+in the morning the class was early , and at night it was late .
+in the morning the class was late , and at night it was early .
+in the morning the classroom was noisy , and at night it was quiet .
+in the morning the classroom was quiet , and at night it was noisy .
+in the morning the coat was heavy , and at night it was light .
+in the morning the coat was light , and at night it was heavy .
+in the morning the coffee was strong , and at night it was weak .
+in the morning the coffee was weak , and at night it was strong .
+in the morning the crowd was noisy , and at night it was quiet .
+in the morning the crowd was quiet , and at night it was noisy .
+in the morning the cup was empty , and at night it was full .
+in the morning the cup was full , and at night it was empty .
+in the morning the dog was big , and at night it was small .
+in the morning the dog was small , and at night it was big .
+in the morning the door was closed , and at night it was open .
+in the morning the door was open , and at night it was closed .
+in the morning the drink was cool , and at night it was warm .
+in the morning the drink was warm , and at night it was cool .
+in the morning the edge was dull , and at night it was sharp .
+in the morning the edge was sharp , and at night it was dull .
+in the morning the evening was cool , and at night it was warm .
+in the morning the evening was warm , and at night it was cool .
+in the morning the fence was high , and at night it was low .
+in the morning the fence was low , and at night it was high .
+in the morning the flight was early , and at night it was late .
+in the morning the flight was late , and at night it was early .
+in the morning the floor was clean , and at night it was dirty .
+in the morning the floor was dirty , and at night it was clean .
+in the morning the floor was dry , and at night it was wet .
+in the morning the floor was wet , and at night it was dry .
+in the morning the friend was happy , and at night it was sad .
+in the morning the friend was sad , and at night it was happy .
+in the morning the garden was big , and at night it was small .
+in the morning the garden was small , and at night it was big .
+in the morning the gate was closed , and at night it was open .
+in the morning the gate was open , and at night it was closed .
+in the morning the glass was empty , and at night it was full .
+in the morning the glass was full , and at night it was empty .
+in the morning the grass was dry , and at night it was wet .
+in the morning the grass was wet , and at night it was dry .
+in the morning the hallway was bright , and at night it was dark .
+in the morning the hallway was dark , and at night it was bright .
+in the morning the horse was fast , and at night it was slow .
+in the morning the horse was slow , and at night it was fast .
+in the morning the house was big , and at night it was small .
+in the morning the house was small , and at night it was big .
+in the morning the jacket was cool , and at night it was warm .
+in the morning the jacket was warm , and at night it was cool .
+in the morning the jar was empty , and at night it was full .
+in the morning the jar was full , and at night it was empty .
+in the morning the job was difficult , and at night it was easy .
+in the morning the job was easy , and at night it was difficult .
+in the morning the kitchen was clean , and at night it was dirty .
+in the morning the kitchen was dirty , and at night it was clean .
+in the morning the knife was dull , and at night it was sharp .
+in the morning the knife was sharp , and at night it was dull .
+in the morning the lesson was difficult , and at night it was easy .
+in the morning the lesson was easy , and at night it was difficult .
+in the morning the library was noisy , and at night it was quiet .
+in the morning the library was quiet , and at night it was noisy .
+in the morning the line was long , and at night it was short .
+in the morning the line was short , and at night it was long .
+in the morning the meeting was early , and at night it was late .
+in the morning the meeting was late , and at night it was early .
+in the morning the morning was bright , and at night it was dark .
+in the morning the morning was dark , and at night it was bright .
+in the morning the movie was happy , and at night it was sad .
+in the morning the movie was sad , and at night it was happy .
+in the morning the music was loud , and at night it was soft .
+in the morning the music was soft , and at night it was loud .
+in the morning the needle was dull , and at night it was sharp .
+in the morning the needle was sharp , and at night it was dull .
+in the morning the oven was cold , and at night it was hot .
+in the morning the oven was hot , and at night it was cold .
+in the morning the park was noisy , and at night it was quiet .
+in the morning the park was quiet , and at night it was noisy .
+in the morning the pencil was dull , and at night it was sharp .
+in the morning the pencil was sharp , and at night it was dull .
+in the morning the pillow was hard , and at night it was soft .
+in the morning the pillow was soft , and at night it was hard .
+in the morning the plate was clean , and at night it was dirty .
+in the morning the plate was dirty , and at night it was clean .
+in the morning the price was high , and at night it was low .
+in the morning the price was low , and at night it was high .
+in the morning the puzzle was difficult , and at night it was easy .
+in the morning the puzzle was easy , and at night it was difficult .
+in the morning the question was difficult , and at night it was easy .
+in the morning the question was easy , and at night it was difficult .
+in the morning the river was fast , and at night it was slow .
+in the morning the river was slow , and at night it was fast .
+in the morning the road was dry , and at night it was wet .
+in the morning the road was long , and at night it was short .
+in the morning the road was short , and at night it was long .
+in the morning the road was wet , and at night it was dry .
+in the morning the room was bright , and at night it was dark .
+in the morning the room was cold , and at night it was hot .
+in the morning the room was dark , and at night it was bright .
+in the morning the room was empty , and at night it was full .
+in the morning the room was full , and at night it was empty .
+in the morning the room was hot , and at night it was cold .
+in the morning the room was noisy , and at night it was quiet .
+in the morning the room was quiet , and at night it was noisy .
+in the morning the rope was strong , and at night it was weak .
+in the morning the rope was thick , and at night it was thin .
+in the morning the rope was thin , and at night it was thick .
+in the morning the rope was weak , and at night it was strong .
+in the morning the runner was fast , and at night it was slow .
+in the morning the runner was slow , and at night it was fast .
+in the morning the score was high , and at night it was low .
+in the morning the score was low , and at night it was high .
+in the morning the shelf was high , and at night it was low .
+in the morning the shelf was low , and at night it was high .
+in the morning the shirt was clean , and at night it was dirty .
+in the morning the shirt was dirty , and at night it was clean .
+in the morning the shirt was dry , and at night it was wet .
+in the morning the shirt was wet , and at night it was dry .
+in the morning the shop was closed , and at night it was open .
+in the morning the shop was open , and at night it was closed .
+in the morning the signal was strong , and at night it was weak .
+in the morning the signal was weak , and at night it was strong .
+in the morning the sky was bright , and at night it was dark .
+in the morning the sky was dark , and at night it was bright .
+in the morning the slice was thick , and at night it was thin .
+in the morning the slice was thin , and at night it was thick .
+in the morning the song was happy , and at night it was sad .
+in the morning the song was long , and at night it was short .
+in the morning the song was loud , and at night it was soft .
+in the morning the song was sad , and at night it was happy .
+in the morning the song was short , and at night it was long .
+in the morning the song was soft , and at night it was loud .
+in the morning the soup was cold , and at night it was hot .
+in the morning the soup was hot , and at night it was cold .
+in the morning the stone was heavy , and at night it was light .
+in the morning the stone was light , and at night it was heavy .
+in the morning the store was closed , and at night it was open .
+in the morning the store was open , and at night it was closed .
+in the morning the story was happy , and at night it was sad .
+in the morning the story was long , and at night it was short .
+in the morning the story was sad , and at night it was happy .
+in the morning the story was short , and at night it was long .
+in the morning the street was bright , and at night it was dark .
+in the morning the street was dark , and at night it was bright .
+in the morning the street was noisy , and at night it was quiet .
+in the morning the street was quiet , and at night it was noisy .
+in the morning the suitcase was heavy , and at night it was light .
+in the morning the suitcase was light , and at night it was heavy .
+in the morning the tea was cold , and at night it was hot .
+in the morning the tea was hot , and at night it was cold .
+in the morning the team was strong , and at night it was weak .
+in the morning the team was weak , and at night it was strong .
+in the morning the test was difficult , and at night it was easy .
+in the morning the test was easy , and at night it was difficult .
+in the morning the towel was dry , and at night it was wet .
+in the morning the towel was wet , and at night it was dry .
+in the morning the train was early , and at night it was late .
+in the morning the train was fast , and at night it was slow .
+in the morning the train was late , and at night it was early .
+in the morning the train was noisy , and at night it was quiet .
+in the morning the train was quiet , and at night it was noisy .
+in the morning the train was slow , and at night it was fast .
+in the morning the trip was long , and at night it was short .
+in the morning the trip was short , and at night it was long .
+in the morning the voice was loud , and at night it was soft .
+in the morning the voice was soft , and at night it was loud .
+in the morning the wall was high , and at night it was low .
+in the morning the wall was low , and at night it was high .
+in the morning the wall was thick , and at night it was thin .
+in the morning the wall was thin , and at night it was thick .
+in the morning the water was cold , and at night it was hot .
+in the morning the water was hot , and at night it was cold .
+in the morning the wind was cold , and at night it was hot .
+in the morning the wind was hot , and at night it was cold .
+in the morning the wind was strong , and at night it was weak .
+in the morning the wind was weak , and at night it was strong .
+in the morning the window was closed , and at night it was open .
+in the morning the window was open , and at night it was closed .
+ivy asked for the opposite of difficult , and sam said easy .
+ivy asked for the opposite of late , and hana said early .
+ivy asked for the opposite of late , and sam said early .
+ivy asked for the opposite of sad , and rosa said happy .
+ivy asked for the opposite of sharp , and maya said dull .
+ivy asked for the opposite of slow , and felix said fast .
+ivy asked for the opposite of small , and maya said big .
+ivy checked the blanket.it was thick .
+ivy checked the car.it was clean .
+ivy checked the child.it was happy .
+ivy checked the dog.it was big .
+ivy checked the fence.it was high .
+ivy checked the grass.it was wet .
+ivy checked the library.it was noisy .
+ivy checked the score.it was high .
+ivy learned that the opposite of dark is bright .
+ivy learned that the opposite of dry is wet .
+ivy learned that the opposite of dull is sharp .
+ivy learned that the opposite of loud is soft .
+ivy learned that the opposite of short is long .
+ivy learned that the opposite of strong is weak .
+ivy learned that the opposite of thin is thick .
+ivy likes a clean car , but priya likes a dirty car .
+ivy likes a dirty car , but nora likes a clean car .
+ivy likes a hard cheese , but lena likes a soft cheese .
+ivy likes a long line , but rosa likes a short line .
+ivy likes a long song , but maya likes a short song .
+ivy likes a quiet street , but marco likes a noisy street .
+ivy likes a sharp needle , but nora likes a dull needle .
+ivy likes a short song , but jonah likes a long song .
+ivy likes a soft bed , but lena likes a hard bed .
+ivy likes a thick rope , but rosa likes a thin rope .
+ivy likes an easy test , but hana likes a difficult test .
+ivy likes an open shop , but omar likes a closed shop .
+ivy said the blanket felt cool , and leo said it felt warm .
+ivy said the book felt thin , and theo said it felt thick .
+ivy said the box felt small , and sam said it felt big .
+ivy said the bread felt soft , and nora said it felt hard .
+ivy said the chair felt hard , and maya said it felt soft .
+ivy said the city felt big , and kai said it felt small .
+ivy said the fence felt low , and maya said it felt high .
+ivy said the kitchen felt clean , and kai said it felt dirty .
+ivy said the kitchen felt dirty , and nora said it felt clean .
+ivy said the pencil felt dull , and kai said it felt sharp .
+ivy said the score felt low , and lena said it felt high .
+ivy said the song felt happy , and jonah said it felt sad .
+ivy said the song felt short , and zoe said it felt long .
+ivy said the store felt closed , and rosa said it felt open .
+ivy said the team felt weak , and omar said it felt strong .
+ivy said the wind felt strong , and felix said it felt weak .
+ivy said the window felt closed , and maya said it felt open .
+ivy wanted a clean kitchen , not a dirty kitchen .
+ivy wanted a cold bath , not a hot bath .
+ivy wanted a cool jacket , not a warm jacket .
+ivy wanted a dry shirt , not a wet shirt .
+ivy wanted a dull blade , not a sharp blade .
+ivy wanted a fast river , not a slow river .
+ivy wanted a high shelf , not a low shelf .
+ivy wanted a light bag , not a heavy bag .
+ivy wanted a noisy crowd , not a quiet crowd .
+jonah asked for the opposite of cool , and maya said warm .
+jonah asked for the opposite of cool , and omar said warm .
+jonah asked for the opposite of dull , and priya said sharp .
+jonah asked for the opposite of easy , and marco said difficult .
+jonah asked for the opposite of sharp , and ivy said dull .
+jonah asked for the opposite of slow , and felix said fast .
+jonah asked for the opposite of soft , and hana said loud .
+jonah asked for the opposite of strong , and ivy said weak .
+jonah asked for the opposite of thick , and felix said thin .
+jonah checked the alarm.it was loud .
+jonah checked the morning.it was bright .
+jonah checked the needle.it was sharp .
+jonah checked the oven.it was hot .
+jonah checked the shirt.it was clean .
+jonah checked the signal.it was strong .
+jonah checked the slice.it was thick .
+jonah learned that the opposite of bright is dark .
+jonah learned that the opposite of closed is open .
+jonah learned that the opposite of light is heavy .
+jonah learned that the opposite of open is closed .
+jonah learned that the opposite of slow is fast .
+jonah learned that the opposite of strong is weak .
+jonah likes a clean plate , but priya likes a dirty plate .
+jonah likes a dark hallway , but nora likes a bright hallway .
+jonah likes a dirty plate , but kai likes a clean plate .
+jonah likes a dull blade , but ivy likes a sharp blade .
+jonah likes a fast river , but hana likes a slow river .
+jonah likes a full bus , but kai likes an empty bus .
+jonah likes a full glass , but sam likes an empty glass .
+jonah likes a happy friend , but omar likes a sad friend .
+jonah likes a high price , but theo likes a low price .
+jonah likes a hot tea , but leo likes a cold tea .
+jonah likes a loud voice , but leo likes a soft voice .
+jonah likes a noisy room , but zoe likes a quiet room .
+jonah likes a sad movie , but hana likes a happy movie .
+jonah likes a short trip , but hana likes a long trip .
+jonah likes a small box , but theo likes a big box .
+jonah likes a soft chair , but theo likes a hard chair .
+jonah likes a soft pillow , but priya likes a hard pillow .
+jonah likes a thick wall , but priya likes a thin wall .
+jonah likes a thin book , but leo likes a thick book .
+jonah likes an easy lesson , but hana likes a difficult lesson .
+jonah likes an empty cup , but omar likes a full cup .
+jonah said the blanket felt thick , and rosa said it felt thin .
+jonah said the book felt thick , and omar said it felt thin .
+jonah said the glass felt full , and theo said it felt empty .
+jonah said the jacket felt warm , and lena said it felt cool .
+jonah said the knife felt dull , and marco said it felt sharp .
+jonah said the lesson felt easy , and leo said it felt difficult .
+jonah said the meeting felt late , and theo said it felt early .
+jonah said the morning felt bright , and theo said it felt dark .
+jonah said the plate felt clean , and kai said it felt dirty .
+jonah said the plate felt dirty , and marco said it felt clean .
+jonah said the puzzle felt difficult , and priya said it felt easy .
+jonah said the sky felt dark , and hana said it felt bright .
+jonah said the street felt quiet , and zoe said it felt noisy .
+jonah said the wall felt high , and hana said it felt low .
+jonah said the wall felt thin , and rosa said it felt thick .
+jonah wanted a big house , not a small house .
+jonah wanted a cool blanket , not a warm blanket .
+jonah wanted a cool drink , not a warm drink .
+jonah wanted a cool evening , not a warm evening .
+jonah wanted a difficult job , not an easy job .
+jonah wanted a dry grass , not a wet grass .
+jonah wanted a happy song , not a sad song .
+jonah wanted a heavy box , not a light box .
+jonah wanted a hot bath , not a cold bath .
+jonah wanted a long story , not a short story .
+jonah wanted a long trip , not a short trip .
+jonah wanted a noisy classroom , not a quiet classroom .
+jonah wanted a sad friend , not a happy friend .
+jonah wanted a thick slice , not a thin slice .
+jonah wanted a thin slice , not a thick slice .
+jonah wanted a warm blanket , not a cool blanket .
+jonah wanted a wet grass , not a dry grass .
+jonah wanted an open door , not a closed door .
+jonah wanted an open gate , not a closed gate .
+jonah wanted an open shop , not a closed shop .
+kai asked for the opposite of dirty , and lena said clean .
+kai asked for the opposite of happy , and maya said sad .
+kai asked for the opposite of loud , and hana said soft .
+kai asked for the opposite of low , and nora said high .
+kai asked for the opposite of soft , and omar said hard .
+kai asked for the opposite of thin , and theo said thick .
+kai checked the horse.it was fast .
+kai checked the plate.it was clean .
+kai checked the room.it was hot .
+kai checked the song.it was long .
+kai learned that the opposite of clean is dirty .
+kai learned that the opposite of early is late .
+kai learned that the opposite of fast is slow .
+kai learned that the opposite of hard is soft .
+kai learned that the opposite of late is early .
+kai learned that the opposite of long is short .
+kai learned that the opposite of sharp is dull .
+kai learned that the opposite of soft is loud .
+kai likes a cool drink , but ivy likes a warm drink .
+kai likes a cool evening , but lena likes a warm evening .
+kai likes a dull edge , but maya likes a sharp edge .
+kai likes a high shelf , but nora likes a low shelf .
+kai likes a hot room , but maya likes a cold room .
+kai likes a hot water , but hana likes a cold water .
+kai likes a late meeting , but maya likes an early meeting .
+kai likes a late train , but marco likes an early train .
+kai likes a loud music , but leo likes a soft music .
+kai likes a noisy library , but sam likes a quiet library .
+kai likes a noisy street , but hana likes a quiet street .
+kai likes a quiet library , but zoe likes a noisy library .
+kai likes a quiet park , but omar likes a noisy park .
+kai likes a sad story , but priya likes a happy story .
+kai likes a sharp pencil , but omar likes a dull pencil .
+kai likes a small dog , but felix likes a big dog .
+kai likes a soft bell , but maya likes a loud bell .
+kai likes a wet grass , but nora likes a dry grass .
+kai likes an open gate , but priya likes a closed gate .
+kai said the basket felt empty , and zoe said it felt full .
+kai said the bed felt soft , and lena said it felt hard .
+kai said the bottle felt full , and sam said it felt empty .
+kai said the classroom felt quiet , and ivy said it felt noisy .
+kai said the door felt open , and zoe said it felt closed .
+kai said the garden felt small , and leo said it felt big .
+kai said the grass felt wet , and leo said it felt dry .
+kai said the question felt easy , and omar said it felt difficult .
+kai said the room felt bright , and lena said it felt dark .
+kai said the story felt happy , and lena said it felt sad .
+kai said the wall felt low , and theo said it felt high .
+kai said the wind felt weak , and rosa said it felt strong .
+kai wanted a closed store , not an open store .
+kai wanted a dark hallway , not a bright hallway .
+kai wanted a dirty floor , not a clean floor .
+kai wanted a fast runner , not a slow runner .
+kai wanted a full bottle , not an empty bottle .
+kai wanted a full cup , not an empty cup .
+kai wanted a light coat , not a heavy coat .
+kai wanted a loud alarm , not a soft alarm .
+kai wanted a low shelf , not a high shelf .
+kai wanted a quiet park , not a noisy park .
+kai wanted a quiet room , not a noisy room .
+kai wanted a sad movie , not a happy movie .
+kai wanted a sharp blade , not a dull blade .
+kai wanted a sharp knife , not a dull knife .
+kai wanted a soft music , not a loud music .
+kai wanted an empty basket , not a full basket .
+kai wanted an empty cup , not a full cup .
+late and early are opposites .
+late is the opposite of early .
+lena asked for the opposite of dirty , and hana said clean .
+lena asked for the opposite of dirty , and priya said clean .
+lena asked for the opposite of early , and sam said late .
+lena asked for the opposite of light , and leo said heavy .
+lena asked for the opposite of soft , and sam said hard .
+lena asked for the opposite of thin , and nora said thick .
+lena checked the bag.it was heavy .
+lena checked the class.it was early .
+lena checked the floor.it was clean .
+lena checked the floor.it was wet .
+lena checked the jacket.it was warm .
+lena checked the jar.it was empty .
+lena checked the room.it was noisy .
+lena checked the shop.it was open .
+lena checked the song.it was happy .
+lena learned that the opposite of fast is slow .
+lena learned that the opposite of heavy is light .
+lena learned that the opposite of low is high .
+lena learned that the opposite of sad is happy .
+lena learned that the opposite of soft is hard .
+lena likes a cold bath , but zoe likes a hot bath .
+lena likes a dull needle , but leo likes a sharp needle .
+lena likes a dull pencil , but zoe likes a sharp pencil .
+lena likes a happy movie , but nora likes a sad movie .
+lena likes a hot soup , but hana likes a cold soup .
+lena likes a light stone , but marco likes a heavy stone .
+lena likes a low score , but sam likes a high score .
+lena likes a noisy classroom , but leo likes a quiet classroom .
+lena likes a sad child , but theo likes a happy child .
+lena likes a sharp knife , but theo likes a dull knife .
+lena likes a short line , but theo likes a long line .
+lena likes a strong wind , but zoe likes a weak wind .
+lena likes an empty jar , but hana likes a full jar .
+lena said the box felt heavy , and maya said it felt light .
+lena said the bread felt hard , and kai said it felt soft .
+lena said the breeze felt cool , and leo said it felt warm .
+lena said the fence felt high , and kai said it felt low .
+lena said the flight felt late , and theo said it felt early .
+lena said the floor felt wet , and leo said it felt dry .
+lena said the shirt felt wet , and sam said it felt dry .
+lena said the shop felt open , and priya said it felt closed .
+lena said the stone felt heavy , and sam said it felt light .
+lena said the tea felt cold , and kai said it felt hot .
+lena said the train felt slow , and hana said it felt fast .
+lena wanted a bright morning , not a dark morning .
+lena wanted a cold water , not a hot water .
+lena wanted a dark room , not a bright room .
+lena wanted a hard chair , not a soft chair .
+lena wanted a hot tea , not a cold tea .
+lena wanted a late bus , not an early bus .
+lena wanted a late class , not an early class .
+lena wanted a sharp needle , not a dull needle .
+lena wanted a short story , not a long story .
+lena wanted a slow horse , not a fast horse .
+lena wanted a thick blanket , not a thin blanket .
+lena wanted a thick rope , not a thin rope .
+lena wanted a warm drink , not a cool drink .
+leo asked for the opposite of closed , and jonah said open .
+leo asked for the opposite of dark , and ivy said bright .
+leo asked for the opposite of easy , and hana said difficult .
+leo asked for the opposite of high , and omar said low .
+leo asked for the opposite of light , and jonah said heavy .
+leo asked for the opposite of loud , and priya said soft .
+leo asked for the opposite of small , and rosa said big .
+leo asked for the opposite of weak , and marco said strong .
+leo checked the bus.it was early .
+leo checked the chair.it was soft .
+leo checked the meeting.it was early .
+leo checked the park.it was noisy .
+leo checked the story.it was long .
+leo checked the window.it was open .
+leo learned that the opposite of big is small .
+leo learned that the opposite of dirty is clean .
+leo learned that the opposite of easy is difficult .
+leo learned that the opposite of heavy is light .
+leo learned that the opposite of high is low .
+leo learned that the opposite of low is high .
+leo learned that the opposite of slow is fast .
+leo learned that the opposite of small is big .
+leo learned that the opposite of soft is loud .
+leo learned that the opposite of thick is thin .
+leo likes a big garden , but rosa likes a small garden .
+leo likes a big house , but felix likes a small house .
+leo likes a cold oven , but rosa likes a hot oven .
+leo likes a cool breeze , but ivy likes a warm breeze .
+leo likes a hard chair , but hana likes a soft chair .
+leo likes a late flight , but theo likes an early flight .
+leo likes a long trip , but priya likes a short trip .
+leo likes a loud bell , but maya likes a soft bell .
+leo likes a short road , but maya likes a long road .
+leo likes a small garden , but kai likes a big garden .
+leo likes a soft song , but marco likes a loud song .
+leo likes a thick blanket , but priya likes a thin blanket .
+leo likes a warm breeze , but ivy likes a cool breeze .
+leo likes a wet floor , but hana likes a dry floor .
+leo said the bag felt light , and felix said it felt heavy .
+leo said the blade felt dull , and marco said it felt sharp .
+leo said the blade felt sharp , and kai said it felt dull .
+leo said the class felt late , and omar said it felt early .
+leo said the dog felt big , and zoe said it felt small .
+leo said the edge felt dull , and omar said it felt sharp .
+leo said the job felt easy , and maya said it felt difficult .
+leo said the lesson felt difficult , and felix said it felt easy .
+leo said the library felt quiet , and omar said it felt noisy .
+leo said the line felt short , and zoe said it felt long .
+leo said the pencil felt sharp , and zoe said it felt dull .
+leo said the road felt dry , and rosa said it felt wet .
+leo said the road felt short , and hana said it felt long .
+leo said the shop felt closed , and rosa said it felt open .
+leo said the store felt open , and jonah said it felt closed .
+leo wanted a big city , not a small city .
+leo wanted a bright room , not a dark room .
+leo wanted a fast train , not a slow train .
+leo wanted a full glass , not an empty glass .
+leo wanted a full jar , not an empty jar .
+leo wanted a hard bed , not a soft bed .
+leo wanted a heavy coat , not a light coat .
+leo wanted a low fence , not a high fence .
+leo wanted a low price , not a high price .
+leo wanted a strong rope , not a weak rope .
+leo wanted a warm jacket , not a cool jacket .
+leo wanted a wet shirt , not a dry shirt .
+light and heavy are opposites .
+light is the opposite of heavy .
+long and short are opposites .
+long is the opposite of short .
+loud and soft are opposites .
+loud is the opposite of soft .
+low and high are opposites .
+low is the opposite of high .
+marco asked for the opposite of dry , and theo said wet .
+marco asked for the opposite of dull , and leo said sharp .
+marco asked for the opposite of high , and rosa said low .
+marco asked for the opposite of sad , and nora said happy .
+marco asked for the opposite of thick , and lena said thin .
+marco checked the basket.it was empty .
+marco checked the bus.it was empty .
+marco checked the car.it was fast .
+marco checked the city.it was big .
+marco checked the edge.it was sharp .
+marco checked the garden.it was big .
+marco checked the river.it was fast .
+marco checked the test.it was easy .
+marco learned that the opposite of bright is dark .
+marco learned that the opposite of cool is warm .
+marco learned that the opposite of difficult is easy .
+marco learned that the opposite of early is late .
+marco learned that the opposite of hard is soft .
+marco learned that the opposite of sad is happy .
+marco learned that the opposite of slow is fast .
+marco learned that the opposite of small is big .
+marco likes a cool jacket , but hana likes a warm jacket .
+marco likes a dark room , but theo likes a bright room .
+marco likes a dirty shirt , but sam likes a clean shirt .
+marco likes a happy child , but leo likes a sad child .
+marco likes a happy song , but kai likes a sad song .
+marco likes a sharp blade , but sam likes a dull blade .
+marco likes a slow car , but nora likes a fast car .
+marco likes a strong coffee , but jonah likes a weak coffee .
+marco likes a warm blanket , but nora likes a cool blanket .
+marco likes a warm drink , but priya likes a cool drink .
+marco likes a warm jacket , but lena likes a cool jacket .
+marco likes a wet road , but rosa likes a dry road .
+marco likes a wet shirt , but sam likes a dry shirt .
+marco likes an empty glass , but priya likes a full glass .
+marco likes an open store , but ivy likes a closed store .
+marco said the breeze felt warm , and ivy said it felt cool .
+marco said the child felt sad , and ivy said it felt happy .
+marco said the drink felt cool , and omar said it felt warm .
+marco said the drink felt warm , and leo said it felt cool .
+marco said the grass felt dry , and hana said it felt wet .
+marco said the hallway felt bright , and nora said it felt dark .
+marco said the horse felt fast , and jonah said it felt slow .
+marco said the jar felt full , and ivy said it felt empty .
+marco said the library felt noisy , and priya said it felt quiet .
+marco said the line felt long , and kai said it felt short .
+marco said the music felt loud , and rosa said it felt soft .
+marco said the oven felt cold , and maya said it felt hot .
+marco said the price felt low , and theo said it felt high .
+marco said the rope felt thin , and maya said it felt thick .
+marco said the street felt bright , and jonah said it felt dark .
+marco said the street felt dark , and zoe said it felt bright .
+marco said the test felt easy , and hana said it felt difficult .
+marco said the trip felt long , and nora said it felt short .
+marco wanted a closed shop , not an open shop .
+marco wanted a dry road , not a wet road .
+marco wanted a full basket , not an empty basket .
+marco wanted a short trip , not a long trip .
+marco wanted a slow river , not a fast river .
+marco wanted a slow runner , not a fast runner .
+marco wanted a soft song , not a loud song .
+marco wanted a strong coffee , not a weak coffee .
+marco wanted a strong wind , not a weak wind .
+marco wanted a weak wind , not a strong wind .
+marco wanted a wet road , not a dry road .
+marco wanted an easy test , not a difficult test .
+marco wanted an empty jar , not a full jar .
+marco wanted an open window , not a closed window .
+maya asked for the opposite of bright , and rosa said dark .
+maya asked for the opposite of long , and kai said short .
+maya asked for the opposite of open , and omar said closed .
+maya asked for the opposite of sad , and zoe said happy .
+maya checked the friend.it was happy .
+maya checked the job.it was easy .
+maya checked the lesson.it was easy .
+maya checked the music.it was loud .
+maya checked the room.it was bright .
+maya checked the rope.it was strong .
+maya checked the stone.it was heavy .
+maya learned that the opposite of big is small .
+maya learned that the opposite of closed is open .
+maya learned that the opposite of difficult is easy .
+maya learned that the opposite of soft is hard .
+maya learned that the opposite of warm is cool .
+maya likes a bright hallway , but omar likes a dark hallway .
+maya likes a dark morning , but leo likes a bright morning .
+maya likes a dirty floor , but ivy likes a clean floor .
+maya likes a dirty kitchen , but marco likes a clean kitchen .
+maya likes a dry floor , but sam likes a wet floor .
+maya likes a happy story , but marco likes a sad story .
+maya likes a heavy bag , but omar likes a light bag .
+maya likes a hot bath , but leo likes a cold bath .
+maya likes a light suitcase , but theo likes a heavy suitcase .
+maya likes a low price , but jonah likes a high price .
+maya likes a short story , but kai likes a long story .
+maya likes a soft cheese , but priya likes a hard cheese .
+maya likes a weak team , but rosa likes a strong team .
+maya likes a weak wind , but rosa likes a strong wind .
+maya said the bottle felt empty , and zoe said it felt full .
+maya said the box felt big , and rosa said it felt small .
+maya said the bus felt empty , and kai said it felt full .
+maya said the cheese felt hard , and hana said it felt soft .
+maya said the cheese felt soft , and sam said it felt hard .
+maya said the needle felt dull , and kai said it felt sharp .
+maya said the needle felt sharp , and jonah said it felt dull .
+maya said the pillow felt hard , and rosa said it felt soft .
+maya said the rope felt weak , and sam said it felt strong .
+maya said the slice felt thin , and ivy said it felt thick .
+maya said the song felt long , and felix said it felt short .
+maya said the song felt sad , and kai said it felt happy .
+maya said the train felt late , and marco said it felt early .
+maya said the wall felt thick , and ivy said it felt thin .
+maya wanted a bright hallway , not a dark hallway .
+maya wanted a clean car , not a dirty car .
+maya wanted a closed window , not an open window .
+maya wanted a cold oven , not a hot oven .
+maya wanted a dirty kitchen , not a clean kitchen .
+maya wanted a full bus , not an empty bus .
+maya wanted a happy child , not a sad child .
+maya wanted a heavy stone , not a light stone .
+maya wanted a long road , not a short road .
+maya wanted a loud song , not a soft song .
+maya wanted a quiet train , not a noisy train .
+maya wanted a slow train , not a fast train .
+maya wanted a small city , not a big city .
+maya wanted a soft bed , not a hard bed .
+maya wanted a soft pillow , not a hard pillow .
+maya wanted a soft voice , not a loud voice .
+maya wanted a thick book , not a thin book .
+maya wanted a thick wall , not a thin wall .
+maya wanted a thin rope , not a thick rope .
+maya wanted a thin wall , not a thick wall .
+maya wanted a warm evening , not a cool evening .
+nora asked for the opposite of dry , and maya said wet .
+nora asked for the opposite of fast , and hana said slow .
+nora asked for the opposite of happy , and rosa said sad .
+nora asked for the opposite of sharp , and hana said dull .
+nora asked for the opposite of weak , and zoe said strong .
+nora checked the blade.it was sharp .
+nora checked the book.it was thick .
+nora checked the box.it was heavy .
+nora checked the evening.it was warm .
+nora checked the pillow.it was soft .
+nora checked the team.it was strong .
+nora learned that the opposite of closed is open .
+nora learned that the opposite of dull is sharp .
+nora learned that the opposite of happy is sad .
+nora learned that the opposite of short is long .
+nora learned that the opposite of weak is strong .
+nora likes a big dog , but theo likes a small dog .
+nora likes a clean kitchen , but omar likes a dirty kitchen .
+nora likes a closed door , but maya likes an open door .
+nora likes a cold water , but rosa likes a hot water .
+nora likes a difficult lesson , but kai likes an easy lesson .
+nora likes a fast runner , but theo likes a slow runner .
+nora likes a full room , but ivy likes an empty room .
+nora likes a hard pillow , but rosa likes a soft pillow .
+nora likes a heavy stone , but zoe likes a light stone .
+nora likes a late class , but priya likes an early class .
+nora likes a loud alarm , but hana likes a soft alarm .
+nora likes a loud song , but zoe likes a soft song .
+nora likes a sharp edge , but priya likes a dull edge .
+nora likes a thin wall , but theo likes a thick wall .
+nora likes a wet towel , but felix likes a dry towel .
+nora likes an early meeting , but ivy likes a late meeting .
+nora likes an empty bottle , but leo likes a full bottle .
+nora likes an empty bus , but sam likes a full bus .
+nora likes an open door , but marco likes a closed door .
+nora likes an open window , but felix likes a closed window .
+nora said the bath felt hot , and zoe said it felt cold .
+nora said the bus felt late , and jonah said it felt early .
+nora said the car felt slow , and zoe said it felt fast .
+nora said the child felt happy , and maya said it felt sad .
+nora said the coffee felt weak , and lena said it felt strong .
+nora said the crowd felt noisy , and jonah said it felt quiet .
+nora said the evening felt cool , and maya said it felt warm .
+nora said the floor felt dry , and theo said it felt wet .
+nora said the friend felt happy , and theo said it felt sad .
+nora said the house felt small , and lena said it felt big .
+nora said the jar felt empty , and jonah said it felt full .
+nora said the oven felt hot , and priya said it felt cold .
+nora said the puzzle felt easy , and rosa said it felt difficult .
+nora said the river felt slow , and zoe said it felt fast .
+nora said the room felt dark , and felix said it felt bright .
+nora said the shelf felt low , and kai said it felt high .
+nora said the shirt felt dry , and sam said it felt wet .
+nora said the song felt soft , and leo said it felt loud .
+nora said the suitcase felt heavy , and hana said it felt light .
+nora said the train felt fast , and zoe said it felt slow .
+nora said the wind felt cold , and kai said it felt hot .
+nora wanted a big dog , not a small dog .
+nora wanted a closed door , not an open door .
+nora wanted a cold soup , not a hot soup .
+nora wanted a dull needle , not a sharp needle .
+nora wanted a loud music , not a soft music .
+nora wanted a noisy room , not a quiet room .
+nora wanted a sad child , not a happy child .
+nora wanted a sad story , not a happy story .
+nora wanted a short song , not a long song .
+nora wanted a soft alarm , not a loud alarm .
+nora wanted a soft chair , not a hard chair .
+nora wanted a warm breeze , not a cool breeze .
+nora wanted a weak coffee , not a strong coffee .
+nora wanted a weak rope , not a strong rope .
+nora wanted an easy puzzle , not a difficult puzzle .
+nora wanted an empty room , not a full room .
+omar asked for the opposite of clean , and rosa said dirty .
+omar asked for the opposite of closed , and maya said open .
+omar asked for the opposite of long , and ivy said short .
+omar asked for the opposite of low , and rosa said high .
+omar asked for the opposite of slow , and leo said fast .
+omar asked for the opposite of soft , and theo said loud .
+omar asked for the opposite of warm , and hana said cool .
+omar asked for the opposite of wet , and leo said dry .
+omar checked the bath.it was hot .
+omar checked the bed.it was soft .
+omar checked the breeze.it was warm .
+omar checked the hallway.it was bright .
+omar checked the puzzle.it was easy .
+omar checked the towel.it was wet .
+omar checked the wall.it was thick .
+omar checked the wind.it was strong .
+omar learned that the opposite of dirty is clean .
+omar learned that the opposite of late is early .
+omar learned that the opposite of open is closed .
+omar learned that the opposite of sharp is dull .
+omar learned that the opposite of thick is thin .
+omar learned that the opposite of wet is dry .
+omar likes a closed gate , but sam likes an open gate .
+omar likes a closed store , but zoe likes an open store .
+omar likes a closed window , but hana likes an open window .
+omar likes a cold soup , but kai likes a hot soup .
+omar likes a heavy coat , but lena likes a light coat .
+omar likes a low wall , but felix likes a high wall .
+omar likes a slow runner , but rosa likes a fast runner .
+omar likes an easy puzzle , but leo likes a difficult puzzle .
+omar likes an empty basket , but jonah likes a full basket .
+omar said the bus felt early , and rosa said it felt late .
+omar said the car felt clean , and marco said it felt dirty .
+omar said the edge felt sharp , and ivy said it felt dull .
+omar said the house felt big , and kai said it felt small .
+omar said the job felt difficult , and nora said it felt easy .
+omar said the music felt soft , and rosa said it felt loud .
+omar said the room felt quiet , and kai said it felt noisy .
+omar said the shelf felt high , and sam said it felt low .
+omar said the shirt felt dirty , and theo said it felt clean .
+omar said the stone felt light , and hana said it felt heavy .
+omar said the street felt noisy , and theo said it felt quiet .
+omar said the test felt difficult , and jonah said it felt easy .
+omar wanted a bright sky , not a dark sky .
+omar wanted a closed gate , not an open gate .
+omar wanted a dark sky , not a bright sky .
+omar wanted a dirty plate , not a clean plate .
+omar wanted a dull pencil , not a sharp pencil .
+omar wanted a high wall , not a low wall .
+omar wanted a low score , not a high score .
+omar wanted a small garden , not a big garden .
+omar wanted a wet towel , not a dry towel .
+omar wanted an empty bus , not a full bus .
+one alarm is loud and one alarm is soft .
+one alarm is soft and one alarm is loud .
+one bag is heavy and one bag is light .
+one bag is light and one bag is heavy .
+one basket is empty and one basket is full .
+one basket is full and one basket is empty .
+one bath is cold and one bath is hot .
+one bath is hot and one bath is cold .
+one bed is hard and one bed is soft .
+one bed is soft and one bed is hard .
+one bell is loud and one bell is soft .
+one bell is soft and one bell is loud .
+one blade is dull and one blade is sharp .
+one blade is sharp and one blade is dull .
+one blanket is cool and one blanket is warm .
+one blanket is thick and one blanket is thin .
+one blanket is thin and one blanket is thick .
+one blanket is warm and one blanket is cool .
+one book is thick and one book is thin .
+one book is thin and one book is thick .
+one bottle is empty and one bottle is full .
+one bottle is full and one bottle is empty .
+one box is big and one box is small .
+one box is heavy and one box is light .
+one box is light and one box is heavy .
+one box is small and one box is big .
+one bread is hard and one bread is soft .
+one bread is soft and one bread is hard .
+one breeze is cool and one breeze is warm .
+one breeze is warm and one breeze is cool .
+one bus is early and one bus is late .
+one bus is empty and one bus is full .
+one bus is full and one bus is empty .
+one bus is late and one bus is early .
+one car is clean and one car is dirty .
+one car is dirty and one car is clean .
+one car is fast and one car is slow .
+one car is slow and one car is fast .
+one chair is hard and one chair is soft .
+one chair is soft and one chair is hard .
+one cheese is hard and one cheese is soft .
+one cheese is soft and one cheese is hard .
+one child is happy and one child is sad .
+one child is sad and one child is happy .
+one city is big and one city is small .
+one city is small and one city is big .
+one class is early and one class is late .
+one class is late and one class is early .
+one classroom is noisy and one classroom is quiet .
+one classroom is quiet and one classroom is noisy .
+one coat is heavy and one coat is light .
+one coat is light and one coat is heavy .
+one coffee is strong and one coffee is weak .
+one coffee is weak and one coffee is strong .
+one crowd is noisy and one crowd is quiet .
+one crowd is quiet and one crowd is noisy .
+one cup is empty and one cup is full .
+one cup is full and one cup is empty .
+one dog is big and one dog is small .
+one dog is small and one dog is big .
+one door is closed and one door is open .
+one door is open and one door is closed .
+one drink is cool and one drink is warm .
+one drink is warm and one drink is cool .
+one edge is dull and one edge is sharp .
+one edge is sharp and one edge is dull .
+one evening is cool and one evening is warm .
+one evening is warm and one evening is cool .
+one fence is high and one fence is low .
+one fence is low and one fence is high .
+one flight is early and one flight is late .
+one flight is late and one flight is early .
+one floor is clean and one floor is dirty .
+one floor is dirty and one floor is clean .
+one floor is dry and one floor is wet .
+one floor is wet and one floor is dry .
+one friend is happy and one friend is sad .
+one friend is sad and one friend is happy .
+one garden is big and one garden is small .
+one garden is small and one garden is big .
+one gate is closed and one gate is open .
+one gate is open and one gate is closed .
+one glass is empty and one glass is full .
+one glass is full and one glass is empty .
+one grass is dry and one grass is wet .
+one grass is wet and one grass is dry .
+one hallway is bright and one hallway is dark .
+one hallway is dark and one hallway is bright .
+one horse is fast and one horse is slow .
+one horse is slow and one horse is fast .
+one house is big and one house is small .
+one house is small and one house is big .
+one jacket is cool and one jacket is warm .
+one jacket is warm and one jacket is cool .
+one jar is empty and one jar is full .
+one jar is full and one jar is empty .
+one job is difficult and one job is easy .
+one job is easy and one job is difficult .
+one kitchen is clean and one kitchen is dirty .
+one kitchen is dirty and one kitchen is clean .
+one knife is dull and one knife is sharp .
+one knife is sharp and one knife is dull .
+one lesson is difficult and one lesson is easy .
+one lesson is easy and one lesson is difficult .
+one library is noisy and one library is quiet .
+one library is quiet and one library is noisy .
+one line is long and one line is short .
+one line is short and one line is long .
+one meeting is early and one meeting is late .
+one meeting is late and one meeting is early .
+one morning is bright and one morning is dark .
+one morning is dark and one morning is bright .
+one movie is happy and one movie is sad .
+one movie is sad and one movie is happy .
+one music is loud and one music is soft .
+one music is soft and one music is loud .
+one needle is dull and one needle is sharp .
+one needle is sharp and one needle is dull .
+one oven is cold and one oven is hot .
+one oven is hot and one oven is cold .
+one park is noisy and one park is quiet .
+one park is quiet and one park is noisy .
+one pencil is dull and one pencil is sharp .
+one pencil is sharp and one pencil is dull .
+one pillow is hard and one pillow is soft .
+one pillow is soft and one pillow is hard .
+one plate is clean and one plate is dirty .
+one plate is dirty and one plate is clean .
+one price is high and one price is low .
+one price is low and one price is high .
+one puzzle is difficult and one puzzle is easy .
+one puzzle is easy and one puzzle is difficult .
+one question is difficult and one question is easy .
+one question is easy and one question is difficult .
+one river is fast and one river is slow .
+one river is slow and one river is fast .
+one road is dry and one road is wet .
+one road is long and one road is short .
+one road is short and one road is long .
+one road is wet and one road is dry .
+one room is bright and one room is dark .
+one room is cold and one room is hot .
+one room is dark and one room is bright .
+one room is empty and one room is full .
+one room is full and one room is empty .
+one room is hot and one room is cold .
+one room is noisy and one room is quiet .
+one room is quiet and one room is noisy .
+one rope is strong and one rope is weak .
+one rope is thick and one rope is thin .
+one rope is thin and one rope is thick .
+one rope is weak and one rope is strong .
+one runner is fast and one runner is slow .
+one runner is slow and one runner is fast .
+one score is high and one score is low .
+one score is low and one score is high .
+one shelf is high and one shelf is low .
+one shelf is low and one shelf is high .
+one shirt is clean and one shirt is dirty .
+one shirt is dirty and one shirt is clean .
+one shirt is dry and one shirt is wet .
+one shirt is wet and one shirt is dry .
+one shop is closed and one shop is open .
+one shop is open and one shop is closed .
+one signal is strong and one signal is weak .
+one signal is weak and one signal is strong .
+one sky is bright and one sky is dark .
+one sky is dark and one sky is bright .
+one slice is thick and one slice is thin .
+one slice is thin and one slice is thick .
+one song is happy and one song is sad .
+one song is long and one song is short .
+one song is loud and one song is soft .
+one song is sad and one song is happy .
+one song is short and one song is long .
+one song is soft and one song is loud .
+one soup is cold and one soup is hot .
+one soup is hot and one soup is cold .
+one stone is heavy and one stone is light .
+one stone is light and one stone is heavy .
+one store is closed and one store is open .
+one store is open and one store is closed .
+one story is happy and one story is sad .
+one story is long and one story is short .
+one story is sad and one story is happy .
+one story is short and one story is long .
+one street is bright and one street is dark .
+one street is dark and one street is bright .
+one street is noisy and one street is quiet .
+one street is quiet and one street is noisy .
+one suitcase is heavy and one suitcase is light .
+one suitcase is light and one suitcase is heavy .
+one tea is cold and one tea is hot .
+one tea is hot and one tea is cold .
+one team is strong and one team is weak .
+one team is weak and one team is strong .
+one test is difficult and one test is easy .
+one test is easy and one test is difficult .
+one towel is dry and one towel is wet .
+one towel is wet and one towel is dry .
+one train is early and one train is late .
+one train is fast and one train is slow .
+one train is late and one train is early .
+one train is noisy and one train is quiet .
+one train is quiet and one train is noisy .
+one train is slow and one train is fast .
+one trip is long and one trip is short .
+one trip is short and one trip is long .
+one voice is loud and one voice is soft .
+one voice is soft and one voice is loud .
+one wall is high and one wall is low .
+one wall is low and one wall is high .
+one wall is thick and one wall is thin .
+one wall is thin and one wall is thick .
+one water is cold and one water is hot .
+one water is hot and one water is cold .
+one wind is cold and one wind is hot .
+one wind is hot and one wind is cold .
+one wind is strong and one wind is weak .
+one wind is weak and one wind is strong .
+one window is closed and one window is open .
+one window is open and one window is closed .
+open and closed are opposites .
+open is the opposite of closed .
+priya asked for the opposite of bright , and omar said dark .
+priya asked for the opposite of soft , and sam said hard .
+priya checked the coat.it was heavy .
+priya checked the door.it was open .
+priya checked the gate.it was open .
+priya checked the glass.it was empty .
+priya checked the house.it was big .
+priya checked the movie.it was happy .
+priya checked the price.it was high .
+priya checked the road.it was long .
+priya checked the store.it was open .
+priya checked the street.it was bright .
+priya checked the trip.it was long .
+priya checked the wall.it was high .
+priya learned that the opposite of dirty is clean .
+priya learned that the opposite of easy is difficult .
+priya learned that the opposite of hard is soft .
+priya learned that the opposite of light is heavy .
+priya learned that the opposite of sad is happy .
+priya learned that the opposite of thick is thin .
+priya likes a bright morning , but omar likes a dark morning .
+priya likes a bright room , but kai likes a dark room .
+priya likes a bright sky , but theo likes a dark sky .
+priya likes a cold room , but sam likes a hot room .
+priya likes a cool blanket , but ivy likes a warm blanket .
+priya likes a dark sky , but felix likes a bright sky .
+priya likes a dark street , but ivy likes a bright street .
+priya likes a dry shirt , but leo likes a wet shirt .
+priya likes a heavy suitcase , but marco likes a light suitcase .
+priya likes a light box , but hana likes a heavy box .
+priya likes a long story , but hana likes a short story .
+priya likes a quiet crowd , but felix likes a noisy crowd .
+priya likes a slow river , but jonah likes a fast river .
+priya likes a slow train , but hana likes a fast train .
+priya likes a soft alarm , but maya likes a loud alarm .
+priya likes an early flight , but hana likes a late flight .
+priya likes an easy job , but omar likes a difficult job .
+priya said the blanket felt warm , and nora said it felt cool .
+priya said the bus felt full , and marco said it felt empty .
+priya said the car felt dirty , and ivy said it felt clean .
+priya said the coat felt light , and leo said it felt heavy .
+priya said the cup felt empty , and zoe said it felt full .
+priya said the floor felt dirty , and sam said it felt clean .
+priya said the friend felt sad , and sam said it felt happy .
+priya said the jacket felt cool , and lena said it felt warm .
+priya said the pillow felt soft , and hana said it felt hard .
+priya said the runner felt fast , and leo said it felt slow .
+priya said the song felt loud , and rosa said it felt soft .
+priya said the soup felt cold , and sam said it felt hot .
+priya said the suitcase felt light , and marco said it felt heavy .
+priya said the tea felt hot , and marco said it felt cold .
+priya wanted a dark street , not a bright street .
+priya wanted a difficult puzzle , not an easy puzzle .
+priya wanted a dry floor , not a wet floor .
+priya wanted a full room , not an empty room .
+priya wanted a happy story , not a sad story .
+priya wanted a light stone , not a heavy stone .
+priya wanted a quiet classroom , not a noisy classroom .
+priya wanted a quiet street , not a noisy street .
+priya wanted an easy question , not a difficult question .
+rosa asked for the opposite of bright , and hana said dark .
+rosa asked for the opposite of difficult , and theo said easy .
+rosa asked for the opposite of dull , and nora said sharp .
+rosa asked for the opposite of fast , and hana said slow .
+rosa asked for the opposite of happy , and zoe said sad .
+rosa asked for the opposite of heavy , and zoe said light .
+rosa asked for the opposite of short , and priya said long .
+rosa checked the runner.it was fast .
+rosa checked the suitcase.it was heavy .
+rosa checked the voice.it was loud .
+rosa learned that the opposite of big is small .
+rosa learned that the opposite of high is low .
+rosa learned that the opposite of small is big .
+rosa learned that the opposite of warm is cool .
+rosa likes a fast horse , but hana likes a slow horse .
+rosa likes a hard bed , but felix likes a soft bed .
+rosa likes a high score , but zoe likes a low score .
+rosa likes a hot oven , but hana likes a cold oven .
+rosa likes a light coat , but jonah likes a heavy coat .
+rosa likes a low fence , but jonah likes a high fence .
+rosa likes a slow horse , but nora likes a fast horse .
+rosa likes a soft music , but hana likes a loud music .
+rosa likes a weak signal , but zoe likes a strong signal .
+rosa likes an empty room , but marco likes a full room .
+rosa said the blanket felt thin , and zoe said it felt thick .
+rosa said the classroom felt noisy , and zoe said it felt quiet .
+rosa said the garden felt big , and theo said it felt small .
+rosa said the glass felt empty , and zoe said it felt full .
+rosa said the horse felt slow , and kai said it felt fast .
+rosa said the rope felt thick , and sam said it felt thin .
+rosa said the story felt short , and leo said it felt long .
+rosa said the trip felt short , and nora said it felt long .
+rosa said the voice felt soft , and marco said it felt loud .
+rosa wanted a clean floor , not a dirty floor .
+rosa wanted a fast horse , not a slow horse .
+rosa wanted a noisy train , not a quiet train .
+rosa wanted a sharp pencil , not a dull pencil .
+rosa wanted an early bus , not a late bus .
+rosa wanted an early class , not a late class .
+sad and happy are opposites .
+sad is the opposite of happy .
+sam asked for the opposite of big , and theo said small .
+sam asked for the opposite of clean , and marco said dirty .
+sam asked for the opposite of high , and lena said low .
+sam asked for the opposite of long , and jonah said short .
+sam asked for the opposite of short , and marco said long .
+sam asked for the opposite of small , and nora said big .
+sam asked for the opposite of warm , and maya said cool .
+sam checked the street.it was noisy .
+sam checked the water.it was hot .
+sam learned that the opposite of dry is wet .
+sam learned that the opposite of dull is sharp .
+sam learned that the opposite of early is late .
+sam learned that the opposite of easy is difficult .
+sam learned that the opposite of happy is sad .
+sam learned that the opposite of long is short .
+sam learned that the opposite of loud is soft .
+sam learned that the opposite of thin is thick .
+sam learned that the opposite of weak is strong .
+sam likes a big city , but marco likes a small city .
+sam likes a difficult puzzle , but priya likes an easy puzzle .
+sam likes a dry grass , but nora likes a wet grass .
+sam likes a heavy box , but ivy likes a light box .
+sam likes a high fence , but maya likes a low fence .
+sam likes a quiet classroom , but theo likes a noisy classroom .
+sam likes a small house , but kai likes a big house .
+sam said the bell felt loud , and lena said it felt soft .
+sam said the chair felt soft , and marco said it felt hard .
+sam said the class felt early , and theo said it felt late .
+sam said the gate felt open , and jonah said it felt closed .
+sam said the slice felt thick , and rosa said it felt thin .
+sam said the window felt open , and hana said it felt closed .
+sam wanted a big box , not a small box .
+sam wanted a big garden , not a small garden .
+sam wanted a bright street , not a dark street .
+sam wanted a clean plate , not a dirty plate .
+sam wanted a dark morning , not a bright morning .
+sam wanted a difficult lesson , not an easy lesson .
+sam wanted a dirty shirt , not a clean shirt .
+sam wanted a hard bread , not a soft bread .
+sam wanted a high fence , not a low fence .
+sam wanted a high price , not a low price .
+sam wanted a hot water , not a cold water .
+sam wanted a late train , not an early train .
+sam wanted a light suitcase , not a heavy suitcase .
+sam wanted a long line , not a short line .
+sam wanted a loud voice , not a soft voice .
+sam wanted a low wall , not a high wall .
+sam wanted a noisy street , not a quiet street .
+sam wanted a slow car , not a fast car .
+sam wanted a small dog , not a big dog .
+sam wanted a weak team , not a strong team .
+sam wanted an early flight , not a late flight .
+sam wanted an easy lesson , not a difficult lesson .
+sam wanted an empty glass , not a full glass .
+sam wanted an open store , not a closed store .
+sharp and dull are opposites .
+sharp is the opposite of dull .
+short and long are opposites .
+short is the opposite of long .
+slow and fast are opposites .
+slow is the opposite of fast .
+small and big are opposites .
+small is the opposite of big .
+soft and hard are opposites .
+soft and loud are opposites .
+soft is the opposite of hard .
+soft is the opposite of loud .
+strong and weak are opposites .
+strong is the opposite of weak .
+the alarm is loud now , and it was soft before .
+the alarm is soft now , and it was loud before .
+the alarm was loud , but the other alarm was soft .
+the alarm was soft , but the other alarm was loud .
+the bag is heavy now , and it was light before .
+the bag is light now , and it was heavy before .
+the bag was heavy , but the other bag was light .
+the bag was light , but the other bag was heavy .
+the basket is empty now , and it was full before .
+the basket is full now , and it was empty before .
+the basket was empty , but the other basket was full .
+the basket was full , but the other basket was empty .
+the bath is cold now , and it was hot before .
+the bath is hot now , and it was cold before .
+the bath was cold , but the other bath was hot .
+the bath was hot , but the other bath was cold .
+the bed is hard now , and it was soft before .
+the bed is soft now , and it was hard before .
+the bed was hard , but the other bed was soft .
+the bed was soft , but the other bed was hard .
+the bell is loud now , and it was soft before .
+the bell is soft now , and it was loud before .
+the bell was loud , but the other bell was soft .
+the bell was soft , but the other bell was loud .
+the big box and the small box were side by side .
+the big city and the small city were side by side .
+the big dog and the small dog were side by side .
+the big garden and the small garden were side by side .
+the big house and the small house were side by side .
+the blade is dull now , and it was sharp before .
+the blade is sharp now , and it was dull before .
+the blade was dull , but the other blade was sharp .
+the blade was sharp , but the other blade was dull .
+the blanket is cool now , and it was warm before .
+the blanket is thick now , and it was thin before .
+the blanket is thin now , and it was thick before .
+the blanket is warm now , and it was cool before .
+the blanket was cool , but the other blanket was warm .
+the blanket was thick , but the other blanket was thin .
+the blanket was thin , but the other blanket was thick .
+the blanket was warm , but the other blanket was cool .
+the book is thick now , and it was thin before .
+the book is thin now , and it was thick before .
+the book was thick , but the other book was thin .
+the book was thin , but the other book was thick .
+the bottle is empty now , and it was full before .
+the bottle is full now , and it was empty before .
+the bottle was empty , but the other bottle was full .
+the bottle was full , but the other bottle was empty .
+the box is big now , and it was small before .
+the box is heavy now , and it was light before .
+the box is light now , and it was heavy before .
+the box is small now , and it was big before .
+the box was big , but the other box was small .
+the box was heavy , but the other box was light .
+the box was light , but the other box was heavy .
+the box was small , but the other box was big .
+the bread is hard now , and it was soft before .
+the bread is soft now , and it was hard before .
+the bread was hard , but the other bread was soft .
+the bread was soft , but the other bread was hard .
+the breeze is cool now , and it was warm before .
+the breeze is warm now , and it was cool before .
+the breeze was cool , but the other breeze was warm .
+the breeze was warm , but the other breeze was cool .
+the bright hallway and the dark hallway were side by side .
+the bright morning and the dark morning were side by side .
+the bright room and the dark room were side by side .
+the bright sky and the dark sky were side by side .
+the bright street and the dark street were side by side .
+the bus is early now , and it was late before .
+the bus is empty now , and it was full before .
+the bus is full now , and it was empty before .
+the bus is late now , and it was early before .
+the bus was early , but the other bus was late .
+the bus was empty , but the other bus was full .
+the bus was full , but the other bus was empty .
+the bus was late , but the other bus was early .
+the car is clean now , and it was dirty before .
+the car is dirty now , and it was clean before .
+the car is fast now , and it was slow before .
+the car is slow now , and it was fast before .
+the car was clean , but the other car was dirty .
+the car was dirty , but the other car was clean .
+the car was fast , but the other car was slow .
+the car was slow , but the other car was fast .
+the chair is hard now , and it was soft before .
+the chair is soft now , and it was hard before .
+the chair was hard , but the other chair was soft .
+the chair was soft , but the other chair was hard .
+the cheese is hard now , and it was soft before .
+the cheese is soft now , and it was hard before .
+the cheese was hard , but the other cheese was soft .
+the cheese was soft , but the other cheese was hard .
+the child is happy now , and it was sad before .
+the child is sad now , and it was happy before .
+the child was happy , but the other child was sad .
+the child was sad , but the other child was happy .
+the city is big now , and it was small before .
+the city is small now , and it was big before .
+the city was big , but the other city was small .
+the city was small , but the other city was big .
+the class is early now , and it was late before .
+the class is late now , and it was early before .
+the class was early , but the other class was late .
+the class was late , but the other class was early .
+the classroom is noisy now , and it was quiet before .
+the classroom is quiet now , and it was noisy before .
+the classroom was noisy , but the other classroom was quiet .
+the classroom was quiet , but the other classroom was noisy .
+the clean car and the dirty car were side by side .
+the clean floor and the dirty floor were side by side .
+the clean kitchen and the dirty kitchen were side by side .
+the clean plate and the dirty plate were side by side .
+the clean shirt and the dirty shirt were side by side .
+the closed door and the open door were side by side .
+the closed gate and the open gate were side by side .
+the closed shop and the open shop were side by side .
+the closed store and the open store were side by side .
+the closed window and the open window were side by side .
+the coat is heavy now , and it was light before .
+the coat is light now , and it was heavy before .
+the coat was heavy , but the other coat was light .
+the coat was light , but the other coat was heavy .
+the coffee is strong now , and it was weak before .
+the coffee is weak now , and it was strong before .
+the coffee was strong , but the other coffee was weak .
+the coffee was weak , but the other coffee was strong .
+the cold bath and the hot bath were side by side .
+the cold oven and the hot oven were side by side .
+the cold room and the hot room were side by side .
+the cold soup and the hot soup were side by side .
+the cold tea and the hot tea were side by side .
+the cold water and the hot water were side by side .
+the cold wind and the hot wind were side by side .
+the cool blanket and the warm blanket were side by side .
+the cool breeze and the warm breeze were side by side .
+the cool drink and the warm drink were side by side .
+the cool evening and the warm evening were side by side .
+the cool jacket and the warm jacket were side by side .
+the crowd is noisy now , and it was quiet before .
+the crowd is quiet now , and it was noisy before .
+the crowd was noisy , but the other crowd was quiet .
+the crowd was quiet , but the other crowd was noisy .
+the cup is empty now , and it was full before .
+the cup is full now , and it was empty before .
+the cup was empty , but the other cup was full .
+the cup was full , but the other cup was empty .
+the dark hallway and the bright hallway were side by side .
+the dark morning and the bright morning were side by side .
+the dark room and the bright room were side by side .
+the dark sky and the bright sky were side by side .
+the dark street and the bright street were side by side .
+the difficult job and the easy job were side by side .
+the difficult lesson and the easy lesson were side by side .
+the difficult puzzle and the easy puzzle were side by side .
+the difficult question and the easy question were side by side .
+the difficult test and the easy test were side by side .
+the dirty car and the clean car were side by side .
+the dirty floor and the clean floor were side by side .
+the dirty kitchen and the clean kitchen were side by side .
+the dirty plate and the clean plate were side by side .
+the dirty shirt and the clean shirt were side by side .
+the dog is big now , and it was small before .
+the dog is small now , and it was big before .
+the dog was big , but the other dog was small .
+the dog was small , but the other dog was big .
+the door is closed now , and it was open before .
+the door is open now , and it was closed before .
+the door was closed , but the other door was open .
+the door was open , but the other door was closed .
+the drink is cool now , and it was warm before .
+the drink is warm now , and it was cool before .
+the drink was cool , but the other drink was warm .
+the drink was warm , but the other drink was cool .
+the dry floor and the wet floor were side by side .
+the dry grass and the wet grass were side by side .
+the dry road and the wet road were side by side .
+the dry shirt and the wet shirt were side by side .
+the dry towel and the wet towel were side by side .
+the dull blade and the sharp blade were side by side .
+the dull edge and the sharp edge were side by side .
+the dull knife and the sharp knife were side by side .
+the dull needle and the sharp needle were side by side .
+the dull pencil and the sharp pencil were side by side .
+the early bus and the late bus were side by side .
+the early class and the late class were side by side .
+the early flight and the late flight were side by side .
+the early meeting and the late meeting were side by side .
+the early train and the late train were side by side .
+the easy job and the difficult job were side by side .
+the easy lesson and the difficult lesson were side by side .
+the easy puzzle and the difficult puzzle were side by side .
+the easy question and the difficult question were side by side .
+the easy test and the difficult test were side by side .
+the edge is dull now , and it was sharp before .
+the edge is sharp now , and it was dull before .
+the edge was dull , but the other edge was sharp .
+the edge was sharp , but the other edge was dull .
+the empty basket and the full basket were side by side .
+the empty bottle and the full bottle were side by side .
+the empty bus and the full bus were side by side .
+the empty cup and the full cup were side by side .
+the empty glass and the full glass were side by side .
+the empty jar and the full jar were side by side .
+the empty room and the full room were side by side .
+the evening is cool now , and it was warm before .
+the evening is warm now , and it was cool before .
+the evening was cool , but the other evening was warm .
+the evening was warm , but the other evening was cool .
+the fast car and the slow car were side by side .
+the fast horse and the slow horse were side by side .
+the fast river and the slow river were side by side .
+the fast runner and the slow runner were side by side .
+the fast train and the slow train were side by side .
+the fence is high now , and it was low before .
+the fence is low now , and it was high before .
+the fence was high , but the other fence was low .
+the fence was low , but the other fence was high .
+the first alarm was loud.the second alarm was soft .
+the first bag was heavy.the second bag was light .
+the first basket was empty.the second basket was full .
+the first bath was hot.the second bath was cold .
+the first bed was soft.the second bed was hard .
+the first bell was loud.the second bell was soft .
+the first blade was sharp.the second blade was dull .
+the first blanket was thick.the second blanket was thin .
+the first blanket was warm.the second blanket was cool .
+the first book was thick.the second book was thin .
+the first bottle was empty.the second bottle was full .
+the first box was big.the second box was small .
+the first box was heavy.the second box was light .
+the first bread was soft.the second bread was hard .
+the first breeze was warm.the second breeze was cool .
+the first bus was early.the second bus was late .
+the first bus was empty.the second bus was full .
+the first car was clean.the second car was dirty .
+the first car was fast.the second car was slow .
+the first chair was soft.the second chair was hard .
+the first cheese was soft.the second cheese was hard .
+the first child was happy.the second child was sad .
+the first city was big.the second city was small .
+the first class was early.the second class was late .
+the first classroom was noisy.the second classroom was quiet .
+the first coat was heavy.the second coat was light .
+the first coffee was strong.the second coffee was weak .
+the first crowd was noisy.the second crowd was quiet .
+the first cup was empty.the second cup was full .
+the first dog was big.the second dog was small .
+the first door was open.the second door was closed .
+the first drink was warm.the second drink was cool .
+the first edge was sharp.the second edge was dull .
+the first evening was warm.the second evening was cool .
+the first fence was high.the second fence was low .
+the first flight was early.the second flight was late .
+the first floor was clean.the second floor was dirty .
+the first floor was wet.the second floor was dry .
+the first friend was happy.the second friend was sad .
+the first garden was big.the second garden was small .
+the first gate was open.the second gate was closed .
+the first glass was empty.the second glass was full .
+the first grass was wet.the second grass was dry .
+the first hallway was bright.the second hallway was dark .
+the first horse was fast.the second horse was slow .
+the first house was big.the second house was small .
+the first jacket was warm.the second jacket was cool .
+the first jar was empty.the second jar was full .
+the first job was easy.the second job was difficult .
+the first kitchen was clean.the second kitchen was dirty .
+the first knife was sharp.the second knife was dull .
+the first lesson was easy.the second lesson was difficult .
+the first library was noisy.the second library was quiet .
+the first line was long.the second line was short .
+the first meeting was early.the second meeting was late .
+the first morning was bright.the second morning was dark .
+the first movie was happy.the second movie was sad .
+the first music was loud.the second music was soft .
+the first needle was sharp.the second needle was dull .
+the first oven was hot.the second oven was cold .
+the first park was noisy.the second park was quiet .
+the first pencil was sharp.the second pencil was dull .
+the first pillow was soft.the second pillow was hard .
+the first plate was clean.the second plate was dirty .
+the first price was high.the second price was low .
+the first puzzle was easy.the second puzzle was difficult .
+the first question was easy.the second question was difficult .
+the first river was fast.the second river was slow .
+the first road was long.the second road was short .
+the first road was wet.the second road was dry .
+the first room was bright.the second room was dark .
+the first room was empty.the second room was full .
+the first room was hot.the second room was cold .
+the first room was noisy.the second room was quiet .
+the first rope was strong.the second rope was weak .
+the first rope was thick.the second rope was thin .
+the first runner was fast.the second runner was slow .
+the first score was high.the second score was low .
+the first shelf was high.the second shelf was low .
+the first shirt was clean.the second shirt was dirty .
+the first shirt was wet.the second shirt was dry .
+the first shop was open.the second shop was closed .
+the first signal was strong.the second signal was weak .
+the first sky was bright.the second sky was dark .
+the first slice was thick.the second slice was thin .
+the first song was happy.the second song was sad .
+the first song was long.the second song was short .
+the first song was loud.the second song was soft .
+the first soup was hot.the second soup was cold .
+the first stone was heavy.the second stone was light .
+the first store was open.the second store was closed .
+the first story was happy.the second story was sad .
+the first story was long.the second story was short .
+the first street was bright.the second street was dark .
+the first street was noisy.the second street was quiet .
+the first suitcase was heavy.the second suitcase was light .
+the first tea was hot.the second tea was cold .
+the first team was strong.the second team was weak .
+the first test was easy.the second test was difficult .
+the first towel was wet.the second towel was dry .
+the first train was early.the second train was late .
+the first train was fast.the second train was slow .
+the first train was noisy.the second train was quiet .
+the first trip was long.the second trip was short .
+the first voice was loud.the second voice was soft .
+the first wall was high.the second wall was low .
+the first wall was thick.the second wall was thin .
+the first water was hot.the second water was cold .
+the first wind was hot.the second wind was cold .
+the first wind was strong.the second wind was weak .
+the first window was open.the second window was closed .
+the flight is early now , and it was late before .
+the flight is late now , and it was early before .
+the flight was early , but the other flight was late .
+the flight was late , but the other flight was early .
+the floor is clean now , and it was dirty before .
+the floor is dirty now , and it was clean before .
+the floor is dry now , and it was wet before .
+the floor is wet now , and it was dry before .
+the floor was clean , but the other floor was dirty .
+the floor was dirty , but the other floor was clean .
+the floor was dry , but the other floor was wet .
+the floor was wet , but the other floor was dry .
+the friend is happy now , and it was sad before .
+the friend is sad now , and it was happy before .
+the friend was happy , but the other friend was sad .
+the friend was sad , but the other friend was happy .
+the full basket and the empty basket were side by side .
+the full bottle and the empty bottle were side by side .
+the full bus and the empty bus were side by side .
+the full cup and the empty cup were side by side .
+the full glass and the empty glass were side by side .
+the full jar and the empty jar were side by side .
+the full room and the empty room were side by side .
+the garden is big now , and it was small before .
+the garden is small now , and it was big before .
+the garden was big , but the other garden was small .
+the garden was small , but the other garden was big .
+the gate is closed now , and it was open before .
+the gate is open now , and it was closed before .
+the gate was closed , but the other gate was open .
+the gate was open , but the other gate was closed .
+the glass is empty now , and it was full before .
+the glass is full now , and it was empty before .
+the glass was empty , but the other glass was full .
+the glass was full , but the other glass was empty .
+the grass is dry now , and it was wet before .
+the grass is wet now , and it was dry before .
+the grass was dry , but the other grass was wet .
+the grass was wet , but the other grass was dry .
+the hallway is bright now , and it was dark before .
+the hallway is dark now , and it was bright before .
+the hallway was bright , but the other hallway was dark .
+the hallway was dark , but the other hallway was bright .
+the happy child and the sad child were side by side .
+the happy friend and the sad friend were side by side .
+the happy movie and the sad movie were side by side .
+the happy song and the sad song were side by side .
+the happy story and the sad story were side by side .
+the hard bed and the soft bed were side by side .
+the hard bread and the soft bread were side by side .
+the hard chair and the soft chair were side by side .
+the hard cheese and the soft cheese were side by side .
+the hard pillow and the soft pillow were side by side .
+the heavy bag and the light bag were side by side .
+the heavy box and the light box were side by side .
+the heavy coat and the light coat were side by side .
+the heavy stone and the light stone were side by side .
+the heavy suitcase and the light suitcase were side by side .
+the high fence and the low fence were side by side .
+the high price and the low price were side by side .
+the high score and the low score were side by side .
+the high shelf and the low shelf were side by side .
+the high wall and the low wall were side by side .
+the horse is fast now , and it was slow before .
+the horse is slow now , and it was fast before .
+the horse was fast , but the other horse was slow .
+the horse was slow , but the other horse was fast .
+the hot bath and the cold bath were side by side .
+the hot oven and the cold oven were side by side .
+the hot room and the cold room were side by side .
+the hot soup and the cold soup were side by side .
+the hot tea and the cold tea were side by side .
+the hot water and the cold water were side by side .
+the hot wind and the cold wind were side by side .
+the house is big now , and it was small before .
+the house is small now , and it was big before .
+the house was big , but the other house was small .
+the house was small , but the other house was big .
+the jacket is cool now , and it was warm before .
+the jacket is warm now , and it was cool before .
+the jacket was cool , but the other jacket was warm .
+the jacket was warm , but the other jacket was cool .
+the jar is empty now , and it was full before .
+the jar is full now , and it was empty before .
+the jar was empty , but the other jar was full .
+the jar was full , but the other jar was empty .
+the job is difficult now , and it was easy before .
+the job is easy now , and it was difficult before .
+the job was difficult , but the other job was easy .
+the job was easy , but the other job was difficult .
+the kitchen is clean now , and it was dirty before .
+the kitchen is dirty now , and it was clean before .
+the kitchen was clean , but the other kitchen was dirty .
+the kitchen was dirty , but the other kitchen was clean .
+the knife is dull now , and it was sharp before .
+the knife is sharp now , and it was dull before .
+the knife was dull , but the other knife was sharp .
+the knife was sharp , but the other knife was dull .
+the late bus and the early bus were side by side .
+the late class and the early class were side by side .
+the late flight and the early flight were side by side .
+the late meeting and the early meeting were side by side .
+the late train and the early train were side by side .
+the lesson is difficult now , and it was easy before .
+the lesson is easy now , and it was difficult before .
+the lesson was difficult , but the other lesson was easy .
+the lesson was easy , but the other lesson was difficult .
+the library is noisy now , and it was quiet before .
+the library is quiet now , and it was noisy before .
+the library was noisy , but the other library was quiet .
+the library was quiet , but the other library was noisy .
+the light bag and the heavy bag were side by side .
+the light box and the heavy box were side by side .
+the light coat and the heavy coat were side by side .
+the light stone and the heavy stone were side by side .
+the light suitcase and the heavy suitcase were side by side .
+the line is long now , and it was short before .
+the line is short now , and it was long before .
+the line was long , but the other line was short .
+the line was short , but the other line was long .
+the long line and the short line were side by side .
+the long road and the short road were side by side .
+the long song and the short song were side by side .
+the long story and the short story were side by side .
+the long trip and the short trip were side by side .
+the loud alarm and the soft alarm were side by side .
+the loud bell and the soft bell were side by side .
+the loud music and the soft music were side by side .
+the loud song and the soft song were side by side .
+the loud voice and the soft voice were side by side .
+the low fence and the high fence were side by side .
+the low price and the high price were side by side .
+the low score and the high score were side by side .
+the low shelf and the high shelf were side by side .
+the low wall and the high wall were side by side .
+the meeting is early now , and it was late before .
+the meeting is late now , and it was early before .
+the meeting was early , but the other meeting was late .
+the meeting was late , but the other meeting was early .
+the morning is bright now , and it was dark before .
+the morning is dark now , and it was bright before .
+the morning was bright , but the other morning was dark .
+the morning was dark , but the other morning was bright .
+the movie is happy now , and it was sad before .
+the movie is sad now , and it was happy before .
+the movie was happy , but the other movie was sad .
+the movie was sad , but the other movie was happy .
+the music is loud now , and it was soft before .
+the music is soft now , and it was loud before .
+the music was loud , but the other music was soft .
+the music was soft , but the other music was loud .
+the needle is dull now , and it was sharp before .
+the needle is sharp now , and it was dull before .
+the needle was dull , but the other needle was sharp .
+the needle was sharp , but the other needle was dull .
+the noisy classroom and the quiet classroom were side by side .
+the noisy crowd and the quiet crowd were side by side .
+the noisy library and the quiet library were side by side .
+the noisy park and the quiet park were side by side .
+the noisy room and the quiet room were side by side .
+the noisy street and the quiet street were side by side .
+the noisy train and the quiet train were side by side .
+the open door and the closed door were side by side .
+the open gate and the closed gate were side by side .
+the open shop and the closed shop were side by side .
+the open store and the closed store were side by side .
+the open window and the closed window were side by side .
+the opposite of big is small .
+the opposite of bright is dark .
+the opposite of clean is dirty .
+the opposite of closed is open .
+the opposite of cool is warm .
+the opposite of dark is bright .
+the opposite of difficult is easy .
+the opposite of dirty is clean .
+the opposite of dry is wet .
+the opposite of dull is sharp .
+the opposite of early is late .
+the opposite of easy is difficult .
+the opposite of fast is slow .
+the opposite of happy is sad .
+the opposite of hard is soft .
+the opposite of heavy is light .
+the opposite of high is low .
+the opposite of late is early .
+the opposite of light is heavy .
+the opposite of long is short .
+the opposite of loud is soft .
+the opposite of low is high .
+the opposite of open is closed .
+the opposite of sad is happy .
+the opposite of sharp is dull .
+the opposite of short is long .
+the opposite of slow is fast .
+the opposite of small is big .
+the opposite of soft is hard .
+the opposite of soft is loud .
+the opposite of strong is weak .
+the opposite of thick is thin .
+the opposite of thin is thick .
+the opposite of warm is cool .
+the opposite of weak is strong .
+the opposite of wet is dry .
+the oven is cold now , and it was hot before .
+the oven is hot now , and it was cold before .
+the oven was cold , but the other oven was hot .
+the oven was hot , but the other oven was cold .
+the park is noisy now , and it was quiet before .
+the park is quiet now , and it was noisy before .
+the park was noisy , but the other park was quiet .
+the park was quiet , but the other park was noisy .
+the pencil is dull now , and it was sharp before .
+the pencil is sharp now , and it was dull before .
+the pencil was dull , but the other pencil was sharp .
+the pencil was sharp , but the other pencil was dull .
+the pillow is hard now , and it was soft before .
+the pillow is soft now , and it was hard before .
+the pillow was hard , but the other pillow was soft .
+the pillow was soft , but the other pillow was hard .
+the plate is clean now , and it was dirty before .
+the plate is dirty now , and it was clean before .
+the plate was clean , but the other plate was dirty .
+the plate was dirty , but the other plate was clean .
+the price is high now , and it was low before .
+the price is low now , and it was high before .
+the price was high , but the other price was low .
+the price was low , but the other price was high .
+the puzzle is difficult now , and it was easy before .
+the puzzle is easy now , and it was difficult before .
+the puzzle was difficult , but the other puzzle was easy .
+the puzzle was easy , but the other puzzle was difficult .
+the question is difficult now , and it was easy before .
+the question is easy now , and it was difficult before .
+the question was difficult , but the other question was easy .
+the question was easy , but the other question was difficult .
+the quiet classroom and the noisy classroom were side by side .
+the quiet crowd and the noisy crowd were side by side .
+the quiet library and the noisy library were side by side .
+the quiet park and the noisy park were side by side .
+the quiet room and the noisy room were side by side .
+the quiet street and the noisy street were side by side .
+the quiet train and the noisy train were side by side .
+the river is fast now , and it was slow before .
+the river is slow now , and it was fast before .
+the river was fast , but the other river was slow .
+the river was slow , but the other river was fast .
+the road is dry now , and it was wet before .
+the road is long now , and it was short before .
+the road is short now , and it was long before .
+the road is wet now , and it was dry before .
+the road was dry , but the other road was wet .
+the road was long , but the other road was short .
+the road was short , but the other road was long .
+the road was wet , but the other road was dry .
+the room is bright now , and it was dark before .
+the room is cold now , and it was hot before .
+the room is dark now , and it was bright before .
+the room is empty now , and it was full before .
+the room is full now , and it was empty before .
+the room is hot now , and it was cold before .
+the room is noisy now , and it was quiet before .
+the room is quiet now , and it was noisy before .
+the room was bright , but the other room was dark .
+the room was cold , but the other room was hot .
+the room was dark , but the other room was bright .
+the room was empty , but the other room was full .
+the room was full , but the other room was empty .
+the room was hot , but the other room was cold .
+the room was noisy , but the other room was quiet .
+the room was quiet , but the other room was noisy .
+the rope is strong now , and it was weak before .
+the rope is thick now , and it was thin before .
+the rope is thin now , and it was thick before .
+the rope is weak now , and it was strong before .
+the rope was strong , but the other rope was weak .
+the rope was thick , but the other rope was thin .
+the rope was thin , but the other rope was thick .
+the rope was weak , but the other rope was strong .
+the runner is fast now , and it was slow before .
+the runner is slow now , and it was fast before .
+the runner was fast , but the other runner was slow .
+the runner was slow , but the other runner was fast .
+the sad child and the happy child were side by side .
+the sad friend and the happy friend were side by side .
+the sad movie and the happy movie were side by side .
+the sad song and the happy song were side by side .
+the sad story and the happy story were side by side .
+the score is high now , and it was low before .
+the score is low now , and it was high before .
+the score was high , but the other score was low .
+the score was low , but the other score was high .
+the second alarm was soft.the first alarm was loud .
+the second bag was light.the first bag was heavy .
+the second basket was full.the first basket was empty .
+the second bath was cold.the first bath was hot .
+the second bed was hard.the first bed was soft .
+the second bell was soft.the first bell was loud .
+the second blade was dull.the first blade was sharp .
+the second blanket was cool.the first blanket was warm .
+the second blanket was thin.the first blanket was thick .
+the second book was thin.the first book was thick .
+the second bottle was full.the first bottle was empty .
+the second box was light.the first box was heavy .
+the second box was small.the first box was big .
+the second bread was hard.the first bread was soft .
+the second breeze was cool.the first breeze was warm .
+the second bus was full.the first bus was empty .
+the second bus was late.the first bus was early .
+the second car was dirty.the first car was clean .
+the second car was slow.the first car was fast .
+the second chair was hard.the first chair was soft .
+the second cheese was hard.the first cheese was soft .
+the second child was sad.the first child was happy .
+the second city was small.the first city was big .
+the second class was late.the first class was early .
+the second classroom was quiet.the first classroom was noisy .
+the second coat was light.the first coat was heavy .
+the second coffee was weak.the first coffee was strong .
+the second crowd was quiet.the first crowd was noisy .
+the second cup was full.the first cup was empty .
+the second dog was small.the first dog was big .
+the second door was closed.the first door was open .
+the second drink was cool.the first drink was warm .
+the second edge was dull.the first edge was sharp .
+the second evening was cool.the first evening was warm .
+the second fence was low.the first fence was high .
+the second flight was late.the first flight was early .
+the second floor was dirty.the first floor was clean .
+the second floor was dry.the first floor was wet .
+the second friend was sad.the first friend was happy .
+the second garden was small.the first garden was big .
+the second gate was closed.the first gate was open .
+the second glass was full.the first glass was empty .
+the second grass was dry.the first grass was wet .
+the second hallway was dark.the first hallway was bright .
+the second horse was slow.the first horse was fast .
+the second house was small.the first house was big .
+the second jacket was cool.the first jacket was warm .
+the second jar was full.the first jar was empty .
+the second job was difficult.the first job was easy .
+the second kitchen was dirty.the first kitchen was clean .
+the second knife was dull.the first knife was sharp .
+the second lesson was difficult.the first lesson was easy .
+the second library was quiet.the first library was noisy .
+the second line was short.the first line was long .
+the second meeting was late.the first meeting was early .
+the second morning was dark.the first morning was bright .
+the second movie was sad.the first movie was happy .
+the second music was soft.the first music was loud .
+the second needle was dull.the first needle was sharp .
+the second oven was cold.the first oven was hot .
+the second park was quiet.the first park was noisy .
+the second pencil was dull.the first pencil was sharp .
+the second pillow was hard.the first pillow was soft .
+the second plate was dirty.the first plate was clean .
+the second price was low.the first price was high .
+the second puzzle was difficult.the first puzzle was easy .
+the second question was difficult.the first question was easy .
+the second river was slow.the first river was fast .
+the second road was dry.the first road was wet .
+the second road was short.the first road was long .
+the second room was cold.the first room was hot .
+the second room was dark.the first room was bright .
+the second room was full.the first room was empty .
+the second room was quiet.the first room was noisy .
+the second rope was thin.the first rope was thick .
+the second rope was weak.the first rope was strong .
+the second runner was slow.the first runner was fast .
+the second score was low.the first score was high .
+the second shelf was low.the first shelf was high .
+the second shirt was dirty.the first shirt was clean .
+the second shirt was dry.the first shirt was wet .
+the second shop was closed.the first shop was open .
+the second signal was weak.the first signal was strong .
+the second sky was dark.the first sky was bright .
+the second slice was thin.the first slice was thick .
+the second song was sad.the first song was happy .
+the second song was short.the first song was long .
+the second song was soft.the first song was loud .
+the second soup was cold.the first soup was hot .
+the second stone was light.the first stone was heavy .
+the second store was closed.the first store was open .
+the second story was sad.the first story was happy .
+the second story was short.the first story was long .
+the second street was dark.the first street was bright .
+the second street was quiet.the first street was noisy .
+the second suitcase was light.the first suitcase was heavy .
+the second tea was cold.the first tea was hot .
+the second team was weak.the first team was strong .
+the second test was difficult.the first test was easy .
+the second towel was dry.the first towel was wet .
+the second train was late.the first train was early .
+the second train was quiet.the first train was noisy .
+the second train was slow.the first train was fast .
+the second trip was short.the first trip was long .
+the second voice was soft.the first voice was loud .
+the second wall was low.the first wall was high .
+the second wall was thin.the first wall was thick .
+the second water was cold.the first water was hot .
+the second wind was cold.the first wind was hot .
+the second wind was weak.the first wind was strong .
+the second window was closed.the first window was open .
+the sharp blade and the dull blade were side by side .
+the sharp edge and the dull edge were side by side .
+the sharp knife and the dull knife were side by side .
+the sharp needle and the dull needle were side by side .
+the sharp pencil and the dull pencil were side by side .
+the shelf is high now , and it was low before .
+the shelf is low now , and it was high before .
+the shelf was high , but the other shelf was low .
+the shelf was low , but the other shelf was high .
+the shirt is clean now , and it was dirty before .
+the shirt is dirty now , and it was clean before .
+the shirt is dry now , and it was wet before .
+the shirt is wet now , and it was dry before .
+the shirt was clean , but the other shirt was dirty .
+the shirt was dirty , but the other shirt was clean .
+the shirt was dry , but the other shirt was wet .
+the shirt was wet , but the other shirt was dry .
+the shop is closed now , and it was open before .
+the shop is open now , and it was closed before .
+the shop was closed , but the other shop was open .
+the shop was open , but the other shop was closed .
+the short line and the long line were side by side .
+the short road and the long road were side by side .
+the short song and the long song were side by side .
+the short story and the long story were side by side .
+the short trip and the long trip were side by side .
+the signal is strong now , and it was weak before .
+the signal is weak now , and it was strong before .
+the signal was strong , but the other signal was weak .
+the signal was weak , but the other signal was strong .
+the sky is bright now , and it was dark before .
+the sky is dark now , and it was bright before .
+the sky was bright , but the other sky was dark .
+the sky was dark , but the other sky was bright .
+the slice is thick now , and it was thin before .
+the slice is thin now , and it was thick before .
+the slice was thick , but the other slice was thin .
+the slice was thin , but the other slice was thick .
+the slow car and the fast car were side by side .
+the slow horse and the fast horse were side by side .
+the slow river and the fast river were side by side .
+the slow runner and the fast runner were side by side .
+the slow train and the fast train were side by side .
+the small box and the big box were side by side .
+the small city and the big city were side by side .
+the small dog and the big dog were side by side .
+the small garden and the big garden were side by side .
+the small house and the big house were side by side .
+the soft alarm and the loud alarm were side by side .
+the soft bed and the hard bed were side by side .
+the soft bell and the loud bell were side by side .
+the soft bread and the hard bread were side by side .
+the soft chair and the hard chair were side by side .
+the soft cheese and the hard cheese were side by side .
+the soft music and the loud music were side by side .
+the soft pillow and the hard pillow were side by side .
+the soft song and the loud song were side by side .
+the soft voice and the loud voice were side by side .
+the song is happy now , and it was sad before .
+the song is long now , and it was short before .
+the song is loud now , and it was soft before .
+the song is sad now , and it was happy before .
+the song is short now , and it was long before .
+the song is soft now , and it was loud before .
+the song was happy , but the other song was sad .
+the song was long , but the other song was short .
+the song was loud , but the other song was soft .
+the song was sad , but the other song was happy .
+the song was short , but the other song was long .
+the song was soft , but the other song was loud .
+the soup is cold now , and it was hot before .
+the soup is hot now , and it was cold before .
+the soup was cold , but the other soup was hot .
+the soup was hot , but the other soup was cold .
+the stone is heavy now , and it was light before .
+the stone is light now , and it was heavy before .
+the stone was heavy , but the other stone was light .
+the stone was light , but the other stone was heavy .
+the store is closed now , and it was open before .
+the store is open now , and it was closed before .
+the store was closed , but the other store was open .
+the store was open , but the other store was closed .
+the story is happy now , and it was sad before .
+the story is long now , and it was short before .
+the story is sad now , and it was happy before .
+the story is short now , and it was long before .
+the story was happy , but the other story was sad .
+the story was long , but the other story was short .
+the story was sad , but the other story was happy .
+the story was short , but the other story was long .
+the street is bright now , and it was dark before .
+the street is dark now , and it was bright before .
+the street is noisy now , and it was quiet before .
+the street is quiet now , and it was noisy before .
+the street was bright , but the other street was dark .
+the street was dark , but the other street was bright .
+the street was noisy , but the other street was quiet .
+the street was quiet , but the other street was noisy .
+the strong coffee and the weak coffee were side by side .
+the strong rope and the weak rope were side by side .
+the strong signal and the weak signal were side by side .
+the strong team and the weak team were side by side .
+the strong wind and the weak wind were side by side .
+the suitcase is heavy now , and it was light before .
+the suitcase is light now , and it was heavy before .
+the suitcase was heavy , but the other suitcase was light .
+the suitcase was light , but the other suitcase was heavy .
+the tea is cold now , and it was hot before .
+the tea is hot now , and it was cold before .
+the tea was cold , but the other tea was hot .
+the tea was hot , but the other tea was cold .
+the team is strong now , and it was weak before .
+the team is weak now , and it was strong before .
+the team was strong , but the other team was weak .
+the team was weak , but the other team was strong .
+the test is difficult now , and it was easy before .
+the test is easy now , and it was difficult before .
+the test was difficult , but the other test was easy .
+the test was easy , but the other test was difficult .
+the thick blanket and the thin blanket were side by side .
+the thick book and the thin book were side by side .
+the thick rope and the thin rope were side by side .
+the thick slice and the thin slice were side by side .
+the thick wall and the thin wall were side by side .
+the thin blanket and the thick blanket were side by side .
+the thin book and the thick book were side by side .
+the thin rope and the thick rope were side by side .
+the thin slice and the thick slice were side by side .
+the thin wall and the thick wall were side by side .
+the towel is dry now , and it was wet before .
+the towel is wet now , and it was dry before .
+the towel was dry , but the other towel was wet .
+the towel was wet , but the other towel was dry .
+the train is early now , and it was late before .
+the train is fast now , and it was slow before .
+the train is late now , and it was early before .
+the train is noisy now , and it was quiet before .
+the train is quiet now , and it was noisy before .
+the train is slow now , and it was fast before .
+the train was early , but the other train was late .
+the train was fast , but the other train was slow .
+the train was late , but the other train was early .
+the train was noisy , but the other train was quiet .
+the train was quiet , but the other train was noisy .
+the train was slow , but the other train was fast .
+the trip is long now , and it was short before .
+the trip is short now , and it was long before .
+the trip was long , but the other trip was short .
+the trip was short , but the other trip was long .
+the voice is loud now , and it was soft before .
+the voice is soft now , and it was loud before .
+the voice was loud , but the other voice was soft .
+the voice was soft , but the other voice was loud .
+the wall is high now , and it was low before .
+the wall is low now , and it was high before .
+the wall is thick now , and it was thin before .
+the wall is thin now , and it was thick before .
+the wall was high , but the other wall was low .
+the wall was low , but the other wall was high .
+the wall was thick , but the other wall was thin .
+the wall was thin , but the other wall was thick .
+the warm blanket and the cool blanket were side by side .
+the warm breeze and the cool breeze were side by side .
+the warm drink and the cool drink were side by side .
+the warm evening and the cool evening were side by side .
+the warm jacket and the cool jacket were side by side .
+the water is cold now , and it was hot before .
+the water is hot now , and it was cold before .
+the water was cold , but the other water was hot .
+the water was hot , but the other water was cold .
+the weak coffee and the strong coffee were side by side .
+the weak rope and the strong rope were side by side .
+the weak signal and the strong signal were side by side .
+the weak team and the strong team were side by side .
+the weak wind and the strong wind were side by side .
+the wet floor and the dry floor were side by side .
+the wet grass and the dry grass were side by side .
+the wet road and the dry road were side by side .
+the wet shirt and the dry shirt were side by side .
+the wet towel and the dry towel were side by side .
+the wind is cold now , and it was hot before .
+the wind is hot now , and it was cold before .
+the wind is strong now , and it was weak before .
+the wind is weak now , and it was strong before .
+the wind was cold , but the other wind was hot .
+the wind was hot , but the other wind was cold .
+the wind was strong , but the other wind was weak .
+the wind was weak , but the other wind was strong .
+the window is closed now , and it was open before .
+the window is open now , and it was closed before .
+the window was closed , but the other window was open .
+the window was open , but the other window was closed .
+the word big means the opposite of the word small .
+the word bright means the opposite of the word dark .
+the word clean means the opposite of the word dirty .
+the word closed means the opposite of the word open .
+the word cool means the opposite of the word warm .
+the word dark means the opposite of the word bright .
+the word difficult means the opposite of the word easy .
+the word dirty means the opposite of the word clean .
+the word dry means the opposite of the word wet .
+the word dull means the opposite of the word sharp .
+the word early means the opposite of the word late .
+the word easy means the opposite of the word difficult .
+the word fast means the opposite of the word slow .
+the word happy means the opposite of the word sad .
+the word hard means the opposite of the word soft .
+the word heavy means the opposite of the word light .
+the word high means the opposite of the word low .
+the word late means the opposite of the word early .
+the word light means the opposite of the word heavy .
+the word long means the opposite of the word short .
+the word loud means the opposite of the word soft .
+the word low means the opposite of the word high .
+the word open means the opposite of the word closed .
+the word sad means the opposite of the word happy .
+the word sharp means the opposite of the word dull .
+the word short means the opposite of the word long .
+the word slow means the opposite of the word fast .
+the word small means the opposite of the word big .
+the word soft means the opposite of the word hard .
+the word soft means the opposite of the word loud .
+the word strong means the opposite of the word weak .
+the word thick means the opposite of the word thin .
+the word thin means the opposite of the word thick .
+the word warm means the opposite of the word cool .
+the word weak means the opposite of the word strong .
+the word wet means the opposite of the word dry .
+theo asked for the opposite of late , and zoe said early .
+theo asked for the opposite of light , and omar said heavy .
+theo asked for the opposite of low , and felix said high .
+theo asked for the opposite of soft , and priya said loud .
+theo asked for the opposite of thick , and rosa said thin .
+theo asked for the opposite of warm , and hana said cool .
+theo checked the coffee.it was strong .
+theo checked the crowd.it was noisy .
+theo checked the cup.it was empty .
+theo checked the kitchen.it was clean .
+theo checked the question.it was easy .
+theo checked the sky.it was bright .
+theo checked the song.it was loud .
+theo checked the soup.it was hot .
+theo checked the story.it was happy .
+theo checked the tea.it was hot .
+theo checked the train.it was noisy .
+theo learned that the opposite of clean is dirty .
+theo learned that the opposite of dry is wet .
+theo learned that the opposite of fast is slow .
+theo learned that the opposite of heavy is light .
+theo learned that the opposite of high is low .
+theo learned that the opposite of late is early .
+theo learned that the opposite of long is short .
+theo likes a bright street , but nora likes a dark street .
+theo likes a cold tea , but zoe likes a hot tea .
+theo likes a cold wind , but nora likes a hot wind .
+theo likes a difficult job , but omar likes an easy job .
+theo likes a dry road , but kai likes a wet road .
+theo likes a dull knife , but priya likes a sharp knife .
+theo likes a full bottle , but hana likes an empty bottle .
+theo likes a full jar , but sam likes an empty jar .
+theo likes a light bag , but jonah likes a heavy bag .
+theo likes a low shelf , but nora likes a high shelf .
+theo likes a noisy crowd , but marco likes a quiet crowd .
+theo likes a noisy park , but lena likes a quiet park .
+theo likes a thin slice , but kai likes a thick slice .
+theo likes a weak coffee , but marco likes a strong coffee .
+theo likes an early bus , but hana likes a late bus .
+theo likes an easy question , but kai likes a difficult question .
+theo said the bath felt cold , and leo said it felt hot .
+theo said the coat felt heavy , and nora said it felt light .
+theo said the coffee felt strong , and rosa said it felt weak .
+theo said the dog felt small , and maya said it felt big .
+theo said the floor felt clean , and rosa said it felt dirty .
+theo said the morning felt dark , and zoe said it felt bright .
+theo said the movie felt happy , and omar said it felt sad .
+theo said the road felt long , and sam said it felt short .
+theo said the room felt full , and kai said it felt empty .
+theo said the rope felt strong , and hana said it felt weak .
+theo said the runner felt slow , and omar said it felt fast .
+theo said the shirt felt clean , and priya said it felt dirty .
+theo said the story felt sad , and lena said it felt happy .
+theo said the towel felt dry , and jonah said it felt wet .
+theo wanted a dry towel , not a wet towel .
+theo wanted a dull knife , not a sharp knife .
+theo wanted a fast car , not a slow car .
+theo wanted a happy friend , not a sad friend .
+theo wanted a happy movie , not a sad movie .
+theo wanted a high score , not a low score .
+theo wanted a hot oven , not a cold oven .
+theo wanted a hot room , not a cold room .
+theo wanted a hot soup , not a cold soup .
+theo wanted a light box , not a heavy box .
+theo wanted a noisy library , not a quiet library .
+theo wanted a noisy park , not a quiet park .
+theo wanted a short line , not a long line .
+theo wanted a small box , not a big box .
+theo wanted a soft bread , not a hard bread .
+thick and thin are opposites .
+thick is the opposite of thin .
+thin and thick are opposites .
+thin is the opposite of thick .
+warm and cool are opposites .
+warm is the opposite of cool .
+weak and strong are opposites .
+weak is the opposite of strong .
+wet and dry are opposites .
+wet is the opposite of dry .
+zoe asked for the opposite of big , and leo said small .
+zoe asked for the opposite of clean , and priya said dirty .
+zoe asked for the opposite of dark , and lena said bright .
+zoe asked for the opposite of early , and leo said late .
+zoe asked for the opposite of fast , and hana said slow .
+zoe asked for the opposite of hard , and priya said soft .
+zoe asked for the opposite of hard , and sam said soft .
+zoe asked for the opposite of loud , and maya said soft .
+zoe asked for the opposite of open , and theo said closed .
+zoe asked for the opposite of short , and rosa said long .
+zoe asked for the opposite of strong , and jonah said weak .
+zoe checked the bread.it was soft .
+zoe checked the classroom.it was noisy .
+zoe checked the drink.it was warm .
+zoe checked the flight.it was early .
+zoe checked the pencil.it was sharp .
+zoe checked the train.it was early .
+zoe learned that the opposite of cool is warm .
+zoe learned that the opposite of light is heavy .
+zoe learned that the opposite of low is high .
+zoe learned that the opposite of open is closed .
+zoe learned that the opposite of wet is dry .
+zoe likes a clean floor , but marco likes a dirty floor .
+zoe likes a clean shirt , but hana likes a dirty shirt .
+zoe likes a difficult question , but felix likes an easy question .
+zoe likes a fast car , but kai likes a slow car .
+zoe likes a fast train , but leo likes a slow train .
+zoe likes a long road , but felix likes a short road .
+zoe likes a noisy train , but omar likes a quiet train .
+zoe likes a quiet room , but sam likes a noisy room .
+zoe likes a sad song , but maya likes a happy song .
+zoe likes a small city , but maya likes a big city .
+zoe likes a soft voice , but maya likes a loud voice .
+zoe likes a strong rope , but ivy likes a weak rope .
+zoe likes a strong signal , but sam likes a weak signal .
+zoe likes a thick book , but omar likes a thin book .
+zoe said the basket felt full , and leo said it felt empty .
+zoe said the bell felt soft , and maya said it felt loud .
+zoe said the car felt fast , and hana said it felt slow .
+zoe said the crowd felt quiet , and felix said it felt noisy .
+zoe said the cup felt full , and felix said it felt empty .
+zoe said the evening felt warm , and hana said it felt cool .
+zoe said the gate felt closed , and theo said it felt open .
+zoe said the movie felt sad , and leo said it felt happy .
+zoe said the room felt hot , and marco said it felt cold .
+zoe said the score felt high , and hana said it felt low .
+zoe said the signal felt weak , and maya said it felt strong .
+zoe said the train felt noisy , and jonah said it felt quiet .
+zoe said the voice felt loud , and lena said it felt soft .
+zoe said the water felt cold , and ivy said it felt hot .
+zoe said the water felt hot , and hana said it felt cold .
+zoe wanted a clean shirt , not a dirty shirt .
+zoe wanted a cold room , not a hot room .
+zoe wanted a cold tea , not a hot tea .
+zoe wanted a cold wind , not a hot wind .
+zoe wanted a long song , not a short song .
+zoe wanted a quiet crowd , not a noisy crowd .
+zoe wanted a quiet library , not a noisy library .
+zoe wanted a strong team , not a weak team .
+zoe wanted a thin blanket , not a thick blanket .
+zoe wanted a weak signal , not a strong signal .

@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "opposites.txt",
+      "bytes": 155396,
+      "sha256": "06718325beec8e16c26a3f57b0e897654876210a45698ab72d99e04d5e207bb5",
+      "warnings": [],
+      "characters": 155396,
+      "passages": 2999,
+      "unique_passages": 2999,
+      "preview": "a bag that is not heavy is light , because light is the opposite of heavy .\na bag that is not light is heavy , because heavy is the opposite of light .\na bed that is not soft is hard , because hard is the opposite of soft .\na blade that is not sharp is dull , because dull is the opposite of sharp .\n"
+    },
+    {
+      "file": "spatial_relations.txt",
+      "bytes": 138713,
+      "sha256": "7012155d1e6086f061cdf116b02d775943565a1032c48ba6c80b738c7f0e9ab9",
+      "warnings": [],
+      "characters": 138713,
+      "passages": 2176,
+      "unique_passages": 2176,
+      "preview": "felix looked for the phone and found it on the plate .\nfelix looked for the sofa and found it on the shoe .\nfelix placed the basket left of the shelf , so the shelf is to the right .\nfelix placed the bottle left of the phone , so the phone is to the right .\nfelix placed the vase left of the book , s"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 5175,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 9767,
+  "new_unique_passages": 5175,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

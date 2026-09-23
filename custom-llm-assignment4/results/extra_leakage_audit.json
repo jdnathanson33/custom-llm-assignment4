@@ -1,0 +1,342 @@
+{
+  "corpus_passages_checked": 5175,
+  "any_full_prompt_found": false,
+  "cases": [
+    {
+      "id": "lang_01",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_02",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_03",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_04",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_05",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_06",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_07",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_08",
+      "category": "domain_context",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_09",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_10",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_11",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_12",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_13",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_14",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_15",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_16",
+      "category": "domain_place",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_17",
+      "category": "new_wording",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_18",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_19",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_20",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_21",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_22",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_23",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_24",
+      "category": "new_wording",
+      "prompt_tokens": 8,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_25",
+      "category": "grammar",
+      "prompt_tokens": 2,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_26",
+      "category": "grammar",
+      "prompt_tokens": 2,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_27",
+      "category": "grammar",
+      "prompt_tokens": 2,
+      "longest_shared_run_with_prompt_plus_answer": 0,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_28",
+      "category": "opposites",
+      "prompt_tokens": 5,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_29",
+      "category": "opposites",
+      "prompt_tokens": 5,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_30",
+      "category": "opposites",
+      "prompt_tokens": 5,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_31",
+      "category": "negation",
+      "prompt_tokens": 13,
+      "longest_shared_run_with_prompt_plus_answer": 4,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_32",
+      "category": "negation",
+      "prompt_tokens": 12,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_33",
+      "category": "negation",
+      "prompt_tokens": 13,
+      "longest_shared_run_with_prompt_plus_answer": 4,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_34",
+      "category": "reference",
+      "prompt_tokens": 9,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_35",
+      "category": "reference",
+      "prompt_tokens": 13,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_36",
+      "category": "reference",
+      "prompt_tokens": 9,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_37",
+      "category": "sequence",
+      "prompt_tokens": 13,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_38",
+      "category": "sequence",
+      "prompt_tokens": 9,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_39",
+      "category": "sequence",
+      "prompt_tokens": 14,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_40",
+      "category": "spatial_relations",
+      "prompt_tokens": 11,
+      "longest_shared_run_with_prompt_plus_answer": 5,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_41",
+      "category": "spatial_relations",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 6,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_42",
+      "category": "spatial_relations",
+      "prompt_tokens": 13,
+      "longest_shared_run_with_prompt_plus_answer": 7,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_43",
+      "category": "everyday_knowledge",
+      "prompt_tokens": 3,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_44",
+      "category": "everyday_knowledge",
+      "prompt_tokens": 7,
+      "longest_shared_run_with_prompt_plus_answer": 1,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_45",
+      "category": "everyday_knowledge",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 3,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_46",
+      "category": "categories_and_analogies",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_47",
+      "category": "categories_and_analogies",
+      "prompt_tokens": 12,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    },
+    {
+      "id": "lang_48",
+      "category": "categories_and_analogies",
+      "prompt_tokens": 10,
+      "longest_shared_run_with_prompt_plus_answer": 2,
+      "full_prompt_found": false
+    }
+  ]
+}

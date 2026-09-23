@@ -1,0 +1,18 @@
+number of parameters: 0.12M
+Tiny language model: short continuations, not a general assistant.
+Each prompt starts fresh. Context: 48 tokens. Type /quit to exit.
+You: the opposite of slow is
+Model: fast .
+You: the coin is inside the jar . the jar contains the
+Model: coin .
+You: the customer ordered the
+Model: merchandise after checking the price .
+You: the opposite of noisy is
+Model: quiet .
+You: what is the capital of france ?
+Model: the cup .
+Unknown words: ?, capital, france, what
+You: the doctor
+Model: is health and one health is loud .
+You: /quit
+Saved transcript: results/chat/chat_transcript_expanded.json

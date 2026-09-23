@@ -1,0 +1,34 @@
+Supplied unit tests run against the course repo pepealonso95/custom-llm at commit 9e04ddb on 2026-09-23, same Python/PyTorch as the runs:
+$ python -m unittest -v test_language_evals test_corpus
+/usr/local/lib/python3.11/dist-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+test_gold_answer_and_choices_are_not_in_model_prompt (test_language_evals.LanguageEvalTests.test_gold_answer_and_choices_are_not_in_model_prompt) ... Language evals (final): 1/1; 1/1 cases have usable vocabulary/context.
+  extend_corpus: 1/1 correct; 1 scorable
+Language evals (final): 0/1; 1/1 cases have usable vocabulary/context.
+  extend_corpus: 0/1 correct; 1 scorable
+ok
+test_leakage_checks_normalization_multisentence_and_folder_scope (test_language_evals.LanguageEvalTests.test_leakage_checks_normalization_multisentence_and_folder_scope) ... ok
+test_real_model_weights_mode_rng_and_repeatability (test_language_evals.LanguageEvalTests.test_real_model_weights_mode_rng_and_repeatability) ... number of parameters: 0.01M
+Language evals (final): 1/2; 2/2 cases have usable vocabulary/context.
+  starter_patterns: 1/2 correct; 2 scorable
+ok
+test_suite_is_diverse_and_starter_cases_have_supported_vocabulary (test_language_evals.LanguageEvalTests.test_suite_is_diverse_and_starter_cases_have_supported_vocabulary) ... ok
+test_unknown_answers_do_not_receive_accidental_unk_credit (test_language_evals.LanguageEvalTests.test_unknown_answers_do_not_receive_accidental_unk_credit) ... Language evals (final): 0/1; 0/1 cases have usable vocabulary/context.
+  extend_corpus: 0/1 correct; 0 scorable
+ok
+test_blank_pdf_and_corrupt_pdf_fail_clearly (test_corpus.CorpusTests.test_blank_pdf_and_corrupt_pdf_fail_clearly) ... invalid pdf header: b'not a'
+EOF marker not found
+ok
+test_chunking_preserves_all_tokens (test_corpus.CorpusTests.test_chunking_preserves_all_tokens) ... ok
+test_duplicates_are_reported (test_corpus.CorpusTests.test_duplicates_are_reported) ... ok
+test_empty_and_invalid_utf8 (test_corpus.CorpusTests.test_empty_and_invalid_utf8) ... ok
+test_empty_folder (test_corpus.CorpusTests.test_empty_folder) ... ok
+test_encrypted_pdf (test_corpus.CorpusTests.test_encrypted_pdf) ... ok
+test_ignored_files_and_no_link_fetching (test_corpus.CorpusTests.test_ignored_files_and_no_link_fetching) ... ok
+test_mixed_formats_and_nested_files (test_corpus.CorpusTests.test_mixed_formats_and_nested_files) ... ok
+test_mixed_pdf_pages_warn (test_corpus.CorpusTests.test_mixed_pdf_pages_warn) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 1.983s
+
+OK

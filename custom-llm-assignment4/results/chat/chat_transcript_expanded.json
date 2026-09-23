@@ -1,0 +1,57 @@
+{
+  "model": "experiments/expanded/llm_runs/20260923T061247_852296Z/model.pt",
+  "model_sha256": "53295a96336c5925d36212859789734c50de2f69e3c5413109b4467bbbb056fe",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the opposite of slow is",
+      "seed": 2026,
+      "response": "fast .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the coin is inside the jar . the jar contains the",
+      "seed": 2027,
+      "response": "coin .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the customer ordered the",
+      "seed": 2028,
+      "response": "merchandise after checking the price .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of noisy is",
+      "seed": 2029,
+      "response": "quiet .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "what is the capital of france ?",
+      "seed": 2030,
+      "response": "the cup .",
+      "unknown_prompt_words": [
+        "?",
+        "capital",
+        "france",
+        "what"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the doctor",
+      "seed": 2031,
+      "response": "is health and one health is loud .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    }
+  ]
+}
